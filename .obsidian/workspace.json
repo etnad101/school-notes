@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "94bf8237eab3d918",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ef19f6d39097c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7897a3ed09ab76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AS-101/Chapter 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e165f67ff74abe58",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a61f528fab231f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d055a2a4905e2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceb17e5365e5ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdab72d98405ef07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a9c5f71dad3558c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf8c8eb95ff585f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f260da1e55fa5a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AS-101/Chapter 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28b3be8ec73cdf91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AS-101/Chapter 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "522c6c09f8d070d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f87a24661edd8734",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AS-101/Chapter 2.md"
+              }
+            }
+          },
+          {
+            "id": "ddbf82b2b400a344",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a49afc09364ac346",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b19b4b6b1b5826a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "35c474fb8e3f4c53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "35c474fb8e3f4c53",
+  "lastOpenFiles": [
+    "AS-101/Penumbra.md",
+    "AS-101/Chapter 2.md",
+    "AS-101/Umbra.md",
+    "ES-110/Week 2.md",
+    "ES-110/Week 1.md",
+    "AS-101/Chapter 1.md",
+    "AS-101/Solar Day.md",
+    "AS-101/Sidereal Day.md",
+    "EM-101/Lesson 1.md",
+    "AS-101/Star.md",
+    "AS-101/Spiral arms.md",
+    "AS-101/Planet.md",
+    "ES-110/Habitat.md",
+    "AS-101/Constellation.md",
+    "AS-101/Perihelion.md",
+    "AS-101/Light-Year.md",
+    "AS-101/Galaxy.md",
+    "AS-101/Astronomical Unit.md",
+    "ES-110/Anthropogenic.md",
+    "ES-110/Background Extinction.md",
+    "ES-110/Ecological niche.md",
+    "ES-110/Ehrlich's \"ImPAcT\" model.md",
+    "ES-110/Gaia hypothesis.md",
+    "ES-110/Week 3.md",
+    "ES-110/Predation.md",
+    "EM-101/Lesson 2.md",
+    "AS-101/Definitions",
+    "ES-110",
+    "EM-101",
+    "CP-104",
+    "AS-101/Untitled",
+    "AS-101"
+  ]
+}

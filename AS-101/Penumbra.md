@@ -1,0 +1,1 @@
+The region of a shadow that is only partially shaded
