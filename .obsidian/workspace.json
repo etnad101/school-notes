@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "679780127d060642",
+        "id": "8c37d5081e037167",
         "type": "tabs",
         "children": [
           {
-            "id": "fd69c1025b895576",
+            "id": "dc1d3419a4a8fa4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AS-101/Chapter 3.md",
-                "mode": "preview",
+                "file": "AS-101/Chapter 4.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS-101/Chapter 3.md",
+                "file": "AS-101/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AS-101/Chapter 3.md"
+                "file": "AS-101/Chapter 4.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS-101/Chapter 3.md",
+                "file": "AS-101/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,36 +184,36 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fd69c1025b895576",
+  "active": "dc1d3419a4a8fa4a",
   "lastOpenFiles": [
-    "AS-101/Definitions/Eccentricity.md",
+    "AS-101/Definitions/Heat.md",
+    "AS-101/Chapter 4.md",
+    "AS-101/Definitions/Temperature.md",
     "AS-101/Chapter 3.md",
-    "AS-101/Definitions/Ellipse.md",
+    "AS-101/Definitions/Radiation.md",
+    "ES-110/Week 6.md",
+    "ES-110/Definitions/Food.md",
+    "ES-110/Week 5.md",
+    "ES-110/Definitions/Agriculture.md",
+    "AS-101/Chapter 1.md",
+    "AS-101/Chapter 2.md",
+    "ES-110/Definitions/Energy.md",
     "ES-110/Week 4.md",
+    "ES-110/Definitions/Dendrochronology.md",
+    "AS-101/Definitions/Light-Year.md",
+    "AS-101/Definitions/geocentric.md",
+    "AS-101/Definitions/Galaxy.md",
+    "AS-101/Definitions/Ellipse.md",
+    "AS-101/Definitions/Eccentricity.md",
+    "AS-101/Definitions/Constellation.md",
+    "AS-101/Definitions/Astronomical Unit.md",
+    "AS-101/Definitions/Aphelion.md",
     "Chapter 3.md",
     "ES-110/Definitions",
     "AS-101/Definitions",
-    "AS-101/Definitions/Constellation.md",
     "AS-101/Definitions/Penumbra.md",
     "AS-101/Definitions/Planet.md",
     "AS-101/Definitions/Solar Day.md",
-    "AS-101/Definitions/Solar system.md",
-    "AS-101/Definitions/Spiral arms.md",
-    "AS-101/Definitions/Star.md",
-    "AS-101/Definitions/geocentric.md",
-    "AS-101/Chapter 2.md",
-    "AS-101/Chapter 1.md",
-    "ES-110/Definitions/Forest.md",
-    "ES-110/Definitions/Dendrochronology.md",
-    "ES-110/Week 3.md",
-    "AS-101/Definitions/Umbra.md",
-    "ES-110/Week 2.md",
-    "ES-110/Week 1.md",
-    "AS-101/Definitions/Sidereal Day.md",
-    "EM-101/Lesson 1.md",
-    "ES-110/Definitions/Habitat.md",
-    "AS-101/Definitions/Perihelion.md",
-    "AS-101/Definitions/Light-Year.md",
     "AS-101/Definitions",
     "ES-110",
     "EM-101",

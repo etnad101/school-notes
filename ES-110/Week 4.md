@@ -8,9 +8,6 @@
 
 ### How do we know how old a tree is
 ![[Dendrochronology]]
-Many species display very clear annual growth rings
-The distance between rings reflects the environmental conditions of that particular year
-E.g hot/dry years = small distance between rings
 
 ### Largest living single organism
 - Giant sequoia

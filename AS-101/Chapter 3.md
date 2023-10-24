@@ -126,4 +126,3 @@ Galileo published a book called "The Starry Messenger" that reported 2 major dis
 #### Weight vs. Mass
 - Mass is a measure of the amount of matter in the object
 - Weight is the force that gravity exerts on an object
-

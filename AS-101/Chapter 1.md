@@ -1,4 +1,4 @@
-# The Scale of the Cosmos: Space and Time
+´´# The Scale of the Cosmos: Space and Time
 
 ## Goals
 - Where are you and earth in the universe?
@@ -127,3 +127,5 @@ Scientific theories can be proven wrong, but they can never be proven right with
 	=2 * 3.14 * 6371.14 =40,010.7592 
 	=40 010.76 km  
 	Speed ~= 1600 km/hr
+
+
