@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "livePreview": false,
+  "livePreview": true,
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current"

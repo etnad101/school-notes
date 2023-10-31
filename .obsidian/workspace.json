@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41dc96fabf121f44",
+        "id": "37227cf7b5c4d242",
         "type": "tabs",
         "children": [
           {
-            "id": "d891eebc576f8f44",
+            "id": "5306325a7ade5ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AS-101/Chapter 4.md",
+                "file": "AS-101/Chapter 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS-101/Chapter 4.md",
+                "file": "AS-101/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AS-101/Chapter 4.md"
+                "file": "AS-101/Chapter 5.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS-101/Chapter 4.md",
+                "file": "AS-101/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,17 +184,24 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d891eebc576f8f44",
+  "active": "5306325a7ade5ac2",
   "lastOpenFiles": [
+    "AS-101/Definitions/Cosmology.md",
+    "AS-101/Chapter 5.md",
+    "AS-101/Chapter 3.md",
+    "AS-101/Chapter 4.md",
+    "ES-110/Week 7.md",
+    "ES-110/Definitions/Weather.md",
+    "ES-110/Definitions/Climate.md",
     "ES-110/Week 6.md",
+    "ES-110/Week 5.md",
+    "ES-110/Week 2.md",
+    "ES-110/Week 1.md",
     "ES-110/Definitions/shelterbelts.md",
     "AS-101/Definitions/Heat.md",
-    "AS-101/Chapter 4.md",
     "AS-101/Definitions/Temperature.md",
-    "AS-101/Chapter 3.md",
     "AS-101/Definitions/Radiation.md",
     "ES-110/Definitions/Food.md",
-    "ES-110/Week 5.md",
     "ES-110/Definitions/Agriculture.md",
     "AS-101/Chapter 1.md",
     "AS-101/Chapter 2.md",
@@ -205,15 +212,8 @@
     "AS-101/Definitions/geocentric.md",
     "AS-101/Definitions/Galaxy.md",
     "AS-101/Definitions/Ellipse.md",
-    "AS-101/Definitions/Eccentricity.md",
-    "AS-101/Definitions/Constellation.md",
-    "AS-101/Definitions/Astronomical Unit.md",
-    "AS-101/Definitions/Aphelion.md",
-    "Chapter 3.md",
     "ES-110/Definitions",
     "AS-101/Definitions",
-    "AS-101/Definitions/Penumbra.md",
-    "AS-101/Definitions/Planet.md",
     "AS-101/Definitions",
     "ES-110",
     "EM-101",

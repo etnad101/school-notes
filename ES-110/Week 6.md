@@ -277,3 +277,23 @@ makes one glucose molecule (C6-H12-O6)
 - Select crop types appropriate for the local climate to minimize the need for irrigation
 - irrigate wisely
 ### Perennializaiton
+
+## Food security
+Food security = having reliable access to enough food to lead a healthy, active life + food that is culturally satisfying
+Enough food is produced each year to feed everyone if it is properly distributed
+
+## Malnutrition in children globally
+- 22% of children worldwide are stunted (growth has been impaired from malnutrition)
+- 6.7% of children suffer from wasting (so thin their health is in danger)
+
+## Problem with high-income countries
+- for most of human history, the challenge has been getting enough calories
+- In developed countries consuming too many calories has become a health risk
+
+## Solving food insecurity & dietary health problems
+- need more coordinated efforts to ensure people in low-income countries (and poor people in our own communities) have access to affordable nutritious food
+
+## Summary
+- The food we eat is the output of a global system
+- demand for food is growing rapidly
+- huge amounts of food are produced by commercial agriculture
