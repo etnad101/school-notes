@@ -56,13 +56,19 @@ density is calculated knowing the radius and mass
 
 All orbits except Pluto and Mercury are close to the same plane
 
+- Every planet in the solar system rotate counter-clockwise, except for venus and uranus
+
 ### Terrestrial planets
 - Earth-like planets made up of rocks or metals with a hard surface
 - have a molten heavy-metal core, few moods and topological features such as valleys, volcanoes and craters
+- no rings
+- weak magnetic fields
 ### Jovian planets
 - Very large plants comprised of gas, rather than solid rock
 - refer to a group of four planets in the solar system also known as gas giants
 - gigantic compared to Earth, and have a gaseous nature like Jupiter
+- Have rings
+- strong magnetic fields
 
 ### Pluto
 - Neither terrestrial nor jovian
@@ -71,3 +77,43 @@ All orbits except Pluto and Mercury are close to the same plane
 #remember
 - Pluto-Charon is our solar system's only known double planetary system
 - the same surfaces of Charon and Pluto always face each other, a phenomenon called mutual tidal locking
+
+## Interplanetary matter
+- The inner solar system, - is the vast space among nine known planets there are small chunks of matter
+
+- Asteroids and meteoroids are fragments of rocky material, similar in composition to the outer layer of terrestrial planets
+- Asteroids are 100m in diameter and meteoroids are less than 100m in diameter
+- Comets are predominantly icy rather than rocky in composition and their typical diameter is a 1-10km range
+
+- Meteoroids are objects in space that range in size from grains of dust to small asteroids, "space rocks"
+- When they enter Earth's atmosphere, or another planet, at high speeds and burn up, the fireballs are called meteors
+- when a meteor survives the trip and hits the ground it is called a meteorite
+
+### The asteroid belt
+- between Mars and Jupiter
+- majority of asteroids are in this belt
+#### Earth-crossing asteroids
+- orbit intersects that of the earth
+#### Trojan asteroids
+- share an orbit with Jupiter
+- remaining a constant 60º ahead or behind that of Jupiter
+- Gravitationally trapped in Jupiter's orbit around the sun for billions of years
+- Hold clues to the formation of our solar system
+
+## What killed the dinosaurs?
+- May have been killed by the impact of a large meteor or a small asteroid
+
+## Comets
+- Will always have a tail
+- The tail is always in the opposite direction of the sun because of solar winds
+- Comets will orbit the sun and come back
+- The size, shape, and orientation of cometary orbits depend on their location. Oort cloud
+- comets rarely enter the inner solar system
+
+- Meteor showers are associated with comets, they are the debris left over when a comet breaks up
+- If Earth passed through the tail of a comet, A meteor shower would occur
+
+## Planets beyond the solar system
+- Many planets have been discovered in other solar system
+- Some planets are discoverable through the "wobble" they create in their parent star's orbit
+- Others are discovered by the dimming of their parent star's luminosity
