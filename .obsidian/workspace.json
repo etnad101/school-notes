@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37227cf7b5c4d242",
+        "id": "fae9fb039773ab3d",
         "type": "tabs",
         "children": [
           {
-            "id": "5306325a7ade5ac2",
+            "id": "7e76818e8aa4d7b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#remember",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,17 +185,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5306325a7ade5ac2",
+  "active": "ceb17e5365e5ebf8",
   "lastOpenFiles": [
-    "AS-101/Definitions/Cosmology.md",
+    "AS-101/Definitions/Star.md",
     "AS-101/Chapter 5.md",
+    "ES-110/Week 7.md",
+    "ES-110/Week 5.md",
+    "ES-110/Week 4.md",
+    "ES-110/Week 6.md",
+    "AS-101/Definitions/Cosmology.md",
     "AS-101/Chapter 3.md",
     "AS-101/Chapter 4.md",
-    "ES-110/Week 7.md",
     "ES-110/Definitions/Weather.md",
     "ES-110/Definitions/Climate.md",
-    "ES-110/Week 6.md",
-    "ES-110/Week 5.md",
     "ES-110/Week 2.md",
     "ES-110/Week 1.md",
     "ES-110/Definitions/shelterbelts.md",
@@ -206,12 +209,10 @@
     "AS-101/Chapter 1.md",
     "AS-101/Chapter 2.md",
     "ES-110/Definitions/Energy.md",
-    "ES-110/Week 4.md",
     "ES-110/Definitions/Dendrochronology.md",
     "AS-101/Definitions/Light-Year.md",
     "AS-101/Definitions/geocentric.md",
     "AS-101/Definitions/Galaxy.md",
-    "AS-101/Definitions/Ellipse.md",
     "ES-110/Definitions",
     "AS-101/Definitions",
     "AS-101/Definitions",
