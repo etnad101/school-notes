@@ -85,15 +85,6 @@ Humans are redistributing the natural storage of carbon by doing things like bur
 - Human activity makes more carbon than these carbon sinks can naturally remove from the air
 
 # Lecture 2: Future risks of climate change
-## Midterm
-- weeks 4, 5, 6, 7
-- Chapters 8, 11, 12, 13
-- 12.1-12.4 will be covered on the test
-
-1 A4 cheatsheet allowed, both sides
-10-15 short answer (1 mark each)
-10-15 multiple choice (1-2 marks each)
-takes ~45 minutes to complete
 
 ## Physical impacts of climate change
 - Average temperatures will continue to rise
@@ -161,7 +152,7 @@ Is a function of
 
 #### How many people are at risk
 - ~400m people worldwide live in coastal areas exposed to sea level rise, flooding, and other hazards by 2100
-- 88m live in areas that would be underwater in 20100 in high emissions scenario
+- 88m live in areas that would be underwater in 2100 in high emissions scenario
 - in the us, ~7m people would live in highly exposed coastal areas by 2060
 
 #### Sensitivity to sea level rise

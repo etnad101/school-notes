@@ -63,7 +63,7 @@ Impacts occur at
 ### Environmental impacts of coal mines
 - 2 types of mines: Shaft & open pit
 - Shafts are very dangerous
-- Open pit is safer, easier, cheaper, but incredibly damaging to forests, downstream waterways, biodiversity
+- The open pit is safer, easier, and cheaper, but incredibly damaging to forests, downstream waterways, biodiversity
 - Mining releases large amounts of sediments, potential toxins, metals
 - Risk of water contamination downslope from mountaintop mines
 - Risk of flooding for communities downstream
@@ -109,7 +109,7 @@ Impacts occur at
 ### Why do we do it
 - Money
 - Suncor is the largest company in the tar sands
-- in the 2nd quarter of 2023 it reported net earnings of $1.3billion
+- in the 2nd quarter of 2023, it reported net earnings of $1.3billion
 
 ### Unremediated mines and wells
 Remediation = clean up after a well is emptied

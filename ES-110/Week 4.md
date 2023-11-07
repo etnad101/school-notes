@@ -4,7 +4,7 @@
 - hominids first appeared ~6m years ago
 
 ### Oldest living things
-- Bristlecone pine in white mountains california is 5000 years old
+- A bristlecone pine in white mountains california is 5000 years old
 
 ### How do we know how old a tree is
 ![[Dendrochronology]]
@@ -36,7 +36,7 @@
 
 ### Eastern broad-leaf deciduous forest
 - Biodiversity increases even more
-- forest extends to Carolinas
+- the forest extends to Carolinas
 
 ### Pacific Coast temperate rainforest
 - Higher levels of biodiversity than taiga
@@ -60,7 +60,7 @@
 ## Forest Statistics
 - ~1/3 of the earth's land surface is forested
 - A temperate forest contains 605 of the biomass of a tropical forest
-- Humans have removes ~1/2 of the world forest cover
+- Humans have removed ~1/2 of the world's forest cover
 - Current forest clearance rates are highest in tropical regions
 - Deforestation results when forests are not allowed to regenerate after harvesting
 
@@ -71,7 +71,7 @@
 - Forestry & deforestation are types of disturbance
 
 ### Disturbance by insects
-- Bark burrowing beetles are a common pest in Canadian forests
+- Bark-burrowing beetles are a common pest in Canadian forests
 - Cold winter temperatures are the main limiting factor for these beetles
 - Warming temperatures allow beetles to multiply and spread
 - Huge areas of western forest are now dying as a result.
@@ -85,13 +85,13 @@
 - Tree & plant species have adapted to fire
 
 #### Impacts of fire-fighting
-- Humans have actively suppressed fire in the west for the last century to save timber for future harvesting, protect homes, property
+- Humans have actively suppressed fire in the West for the last century to save timber for future harvesting, protect homes, property
 - Doing so interferes with ecosystem dynamics and elevates the risk of catastrophic fires
 
 #### Forest fires in Canada
 - Wildfires burned ~500% of the 10-year average in the summer of 2023
 - The actual number of fires was only ~10% above average
-- The size and intensity of the fires was much more
+- The size and intensity of the fires were much more
 - This is due to a dryer and warmer climate
 
 # Lecture 2: Sustainable forestry
@@ -207,7 +207,7 @@ Aforestation = process of  increasing the net amount of forest in a given area
 ## Sustainable forestry
 - Sustainable forestry is increasingly practiced in Ontario
 
-### Forest management in Ontario
+### Forest Management in Ontario
 - Ontarios crown forests are organized into management units
 - each unit has a formal ongoing planning process to determine how, when, and where to harvest
 - the plan must also include steps to regenerate the forest after harvesting

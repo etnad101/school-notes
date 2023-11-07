@@ -8,7 +8,7 @@
 ## Demand for food
 3 key factors driving global demand:
 1. Population growth in low-income countries
-2. Number of calories demanded per person is increasing
+2. The number of calories demanded per person is increasing
 3. Dietary preferences are changing
 
 ## How humans fed themselves over time
@@ -46,7 +46,7 @@
 - Farming was often combined with hunting, fishing, forestry and other subsistence activities to ensure stable livelihoods
 
 #### Subsistence agriculture in difficult environments
-- in areas with poor soil or limited rainfall, other subsistence good produciton methods are practices
+- in areas with poor soil or limited rainfall, other subsistence good production methods are practices
 - E.g swidden agriculture in tropical environments, pastoralism in drylands and mountains
 
 ### Stage 3
@@ -77,7 +77,7 @@
 - Reduce the amount of plowing, and weeding needed
 - Benefits: less labour is needed, crop yields go up
 
-#### Monoculture copping
+#### Monoculture cropping
 - Use of chemical herbicides & pesticides allows farms to specialize and use large volumes of a single crop
 
 #### Experimentation with crop varieties
