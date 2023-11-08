@@ -85,7 +85,7 @@ Impacts occur at
 - cost US$1.2B to clean up
 - released toxins into the river contaminating water downstream
 
-- Runaway train with 74 cars of oil crashed into town
+- A runaway train with 74 cars of oil crashed into town
 - killed 47 people
 
 ### Oil refineries
@@ -194,7 +194,7 @@ For the grid to meet baseload+peakload
 | great for baseload           | high upfront construction costs             |
 | Efficient long lifespan      | floods land upstream                        |
 | cheap to operate             | changes river water chemistry               |
-| low greenhouse gas emissions | affects biology of water                    |
+| low greenhouse gas emissions | affects the biology of water                |
 | dams may have other uses     | not all rivers are suitable                 |
 |                              | Best locations are often far from consumers |
 

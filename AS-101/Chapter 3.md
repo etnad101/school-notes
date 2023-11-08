@@ -90,7 +90,7 @@ The apparent retrograde motion was caused by the motion of the earth from which 
 1. Planets travel on elliptical orbits with the sun at one focus
 2. Planetary orbits sweep out equal areas in equal time (i.e. planets move faster when they are close to the sun and slower when they are further)
 3. The square of the period of any planet is proportional to the cube of the semimajor axis of its orbit
-	- p^2 = a^3
+	- $p^{2}=a^{3}$
 	- p = orbital period in years
 	- a = avg distance from sun in [[Astronomical Unit | AU]]
 
@@ -120,8 +120,8 @@ Galileo published a book called "The Starry Messenger" that reported 2 major dis
 - When one body exerts a force on a second body, the second body exerts an equal and opposite force back on the first body
 
 #### Universal theory of gravitation
-- F1 = F2 = G(M x m)/r^2
-- G = 6.6743 * 10^-11
+$$F1=F2=G\frac{(M\times{m})}{r^{2}}$$
+$$G=6.6743\times {10^{-11}}$$
 
 #### Weight vs. Mass
 - Mass is a measure of the amount of matter in the object

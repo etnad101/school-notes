@@ -10,7 +10,7 @@ Climate processes are driven by solar radiation
 ### Energy Balance
 - Over the long term, the amount of solar energy coming into the atmosphere must be equal to the amount leaving the Earth's atmosphere
 - Incoming 
-	- solar radiation averages 342 W/m^2
+	- solar radiation averages $342W/m^{2}$
 - Outgoing
 	- reflected off tops of clouds and shiny surfaces back to space = 107 W/m^2
 	- Absorbed by gasses in the atmosphere = 67 W/m62
@@ -149,7 +149,6 @@ Is a function of
 - The nature of the physical changes to which a population is exposed
 - the sensitivity of that population to climatic variability & change
 - The adaptive capacity of that population
-
 #### How many people are at risk
 - ~400m people worldwide live in coastal areas exposed to sea level rise, flooding, and other hazards by 2100
 - 88m live in areas that would be underwater in 2100 in high emissions scenario
