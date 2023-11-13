@@ -50,9 +50,60 @@ The Chandrasekhar Limit of 1.4 solar masses, is the theoretical maximum mass a w
 
 Above this mass, the star collapses further into a neutron star or a black hole
 
-## Neutron Stars
-- When a large star has burnt all its fuel, it explodes into a supernova
-- The stuff that is left collapses down to an extremely dense object known as a neutron star
-- We know these exist because several have been observed with radio telescopes
-- Formed from the collapsed remnant of a massive star, consists mostly of neutrons and very hot
-- Typical mss between 1.35 and 2.0 solar mass with corresponding radius between 10 and 20km
+## Neutron Star
+![[Neutron Star]]
+
+## Black Hole
+![[Black Hole]]
+
+- The most important feature of a black hole is the [[Event Horizon]]
+- The "interior" is the region inside the event horizon
+- The "exterior" is outside the event horizon
+
+Neutron stars cannot exist with masses > 3 solar masses, otherwise, it will collapse into a black hole
+
+## Dark Matter and Dark Energy
+- Dark makes up most of the mass of galaxies and galaxy clusters
+- Responsible for the way galaxies are organized on a grand scale
+
+- Dark energy is the name we give the mysterious influence driving the accelerated expansion of the universe
+
+## Interstellar Matter
+- The interstellar medium consists of gas and dust
+- Gas is atoms and small molecules, mostly hydrogen and helium
+- Dust is larger clumps of particles
+- Dust absorbs light, and reddens the light that gets through
+
+## Star-forming regions
+- Nebula is a general term used for fuzzy objects in the sky
+- Dark Nebula: Dust cloud
+- Emission Nebula: Glows due to hot stars
+
+## Formation of stars like the sun
+- The gravitational force of a few atoms is nowhere near strong enough to overcome the random thermal motion
+Stars go through a number of stages in the process of forming an interstellar cloud
+
+### Stage 1
+- Interstellar cloud starts to contract, probably triggered by shock or pressure wave from a nearby star
+- As it contracts, the cloud fragments into smaller pieces
+
+### Stage 2
+- Individual cloud fragments begin to collapse
+- Once the density is high enough, there is no further fragmentation
+
+### Stage 3
+- The interior of the fragment has begun heating as is about 10,000K
+
+Planetary formation has begun, the the protostar is not in equilibrium. All heating comes from gravitational collapse
+
+### Stage 6
+- Core reaches 10 Million K and nuclear fusion begins
+- The protostar has become a star
+
+### Stage 7
+- The star continues to contract and increase the temperature until it is in equilibrium
+- The star has reached the *Main Sequence* and will remain there as long as it has hydrogen to fuse in its core
+
+If the mass of the original nebular fragment is too small, nuclear fusion will never begin. These "failed stars" are called brown dwarfs.
+
+Since a single interstellar cloud can produce many stars of the same age and composition, star clusters are an excellent way to study the effect of mass on stellar evolution

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AS-101/Chapter 6.md",
+                "file": "ES-110/Week 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS-101/Chapter 6.md",
+                "file": "ES-110/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AS-101/Chapter 6.md"
+                "file": "ES-110/Week 9.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS-101/Chapter 6.md",
+                "file": "ES-110/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -186,16 +186,20 @@
   },
   "active": "8e724b1d1e364c27",
   "lastOpenFiles": [
+    "AS-101/Chapter 6.md",
+    "ES-110/Week 9.md",
+    "AS-101/Definitions/Event Horizon.md",
+    "AS-101/Definitions/Black Hole.md",
+    "AS-101/Definitions/Neutron Star.md",
+    "ES-110/Week 7.md",
     "ES-110/Week 6.md",
     "ES-110/Week 5.md",
-    "ES-110/Week 7.md",
-    "AS-101/Chapter 6.md",
+    "ES-110/Week 2.md",
     "AS-101/Chapter 5.md",
     "AS-101/Chapter 3.md",
     "AS-101/Chapter 4.md",
     "ES-110/Week 8.md",
     "ES-110/Midterm Review.md",
-    "ES-110/Week 2.md",
     "ES-110/Week 4.md",
     "AS-101/Chapter 2.md",
     "AS-101/Chapter 1.md",
@@ -208,10 +212,6 @@
     "ES-110/Definitions/Dendrochronology.md",
     "AS-101/Definitions/Star.md",
     "AS-101/Definitions/Cosmology.md",
-    "ES-110/Definitions/Weather.md",
-    "ES-110/Definitions/Climate.md",
-    "AS-101/Definitions/Heat.md",
-    "AS-101/Definitions/Temperature.md",
     "ES-110/Definitions",
     "AS-101/Definitions",
     "AS-101/Definitions",

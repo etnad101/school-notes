@@ -1,0 +1,1 @@
+Imaginary surface that acts as a boundary for the black hole
