@@ -130,6 +130,206 @@ Example of indirect vicious exposure:
 
 ### Solastalgia 
 - climate anxiety, eco-anxiety
-- Emerging research shoes that growing awareness of climate change , environmental risks is causing higher levels of anxiety among young people
+- Emerging research shows that growing awareness of climate change, and environmental risks is causing higher levels of anxiety among young people
 How do we address this?
 - Supporting collective social action & networks of young people seeking environmental action, justice
+
+# Lecture 2: Environment & Health
+## Non-infectious diseases
+- Leading cause of DALY globally
+- in high-income countries the main source of DALY before covid:
+	- Cardiovascular disease
+	- Cancers
+	- Lung diseases (e.g asthma)
+	- Diabetes
+
+## Airborne toxins: a growing cause of non-infectious disease in many countries
+Airborne toxins:
+- Fine particulate matter, ground-level ozone
+- Typically by-products of burning fossil fuels
+- Exacerbate asthma, respiratory illness
+
+## Waterborne toxins
+- typically by-products of industrial activity
+- are "persistent" (i.e. don't break down easily)
+- Many are bio-accumulate
+- many are "lipophilic" (i.e. accumulate in fatty tissues)
+- Many are non-natural (e.g. polychlorinated biphenyls (PCBs), chemical pesticides)
+- Also includes metals and arsenic
+- we are exposed to them through food and water
+
+### Challenges in measuring waterborne toxins
+- Health impacts are difficult to quantify
+- Data are often poor
+- Many such toxins are "forever chemicals"
+
+### Arsenic in groundwater in Bangladesh
+- An estimated 20 million people in Bangladesh are exposed to high levels of arsenic through drinking water from wells
+- Arsenic slowly poisons them
+- Arsenic occurs naturally, and technologies exist to filter it out of water
+- The rural poor lack money to employ these technologies
+
+### Love Canal, Niagara Falls, New York
+- Unlike the example of arsenic in Bangladesh, this was not a natural phenomenon
+- Toxic chemicals were deliberately dumped toxins into the ground
+
+#### Love Canal - Hooker chemicals
+- Niagara Falls NY was home to many WWII-era chemical factories
+- School and subdivision houses were built near a a toxic dumpsite sold by Hooker Chemicals to the city
+- Residents experienced higher levels of cancers, birth defects, and neurological illness
+
+### Grassy Narrows, ON - methylmercury poisoning
+- in the 60s and 70s a chemical plant near Kenora dumped large amounts of mercury into Wibigoon River
+- residents downstream have suffered from mercury poisoning ever since
+
+#### Mercury poisoning
+- When it is released into a water body, mercury accumulates in sediments, where natural processes convert it to methylmercury, a neurotoxin  
+- Methylmercury accumulates in the tissues of fish and shellfish  
+- Ingesting methylmercury causes neurological problems  
+- Symptoms include numbness in fingers and toes, loss of vision, speech impairment, seizures, + coma and death in extreme cases  
+- Pregnant mothers pass methylmercury to the fetus in the womb, leading to cognitive delays in children  
+
+## Heat impacts on non-infectious diseases
+- Extreme heat
+- Raises the risk of cardiovascular disease, especially among older people
+- Makes it more difficult to breathe exacerbating respiratory illness
+- creates the risk of heat stroke and illness for people who exert themselves outdoor
+- Can raise indoor temperatures to life-threatening levels in non-air-conditioned buildings
+
+## Infectious diseases
+- Transmission can occur directly from one person to another or through a vector
+
+## Infectious disease and DALY
+- impacts typically much greater in low-income countries than in high-income countries
+- Often due to poor sanitation, poor housing, lack of access to basic health care, and poor diets (i.e. poverty)
+
+## Viral diseases
+- Viruses = organic matter neither living nor dead
+- A virus inserts itself into the living  
+cells of a host and uses the cell to  
+make copies of itself  
+- Examples include the common  
+cold, West Nile, Ebola, polio,  
+gastro-intestinal illnesses  
+- COVID-19 = disease caused by a  
+
+## Bacterial diseases
+- Most bacteria are harmless to people (many are beneficial)
+
+## Antibiotic resistance
+- The effectiveness of antibiotic medicines may decrease in time as bacteria evolve
+- Crowded poultry brands and animal feedlots are favourable to the emergence of antibiotic-resistant strains of the disease  
+
+## Vector-borne diseases
+- Transmission of the disease is not direct from person to person but via an intermediate organism (a “vector”)  
+- Mosquitos, ticks, and fleas are the most common vectors  
+- Common diseases include malaria, dengue, West Nile, Zika, Lyme, encephalitis
+
+### What is malaria
+- Disease caused by parasites that affect the bloodstream
+- spread by mosquitos
+- Symptoms = headache, abdominal pain, chills, shaking, fever and sweats  
+- Outcomes include seizures, anemia, jaundice, heart failure, kidney failure, coma, death
+
+#### Malaria distribution under climate change
+- A 2º-3ºC increase in temperatures would expose hundreds of millions of people to malaria
+
+#### Adaptation to malaria
+- Avoid being bitten
+- Not easy to avoid if you work outside
+- Drain wet areas where mosquitos breed, spray insecticides  
+- The first vaccine for malaria was made publicly available in 2021
+### Lyme disease
+- tick-borne disease
+- causes loss of the ability to move one or both sides of the face, joint pains, severe headaches, neck stiffness, heart palpitations, joint pain and swelling, memory problems, and/or severe fatigue
+
+#### Lyme disease cases reported in Canada
+- Overall trend = rapid growth
+
+#### Adaptation options to protect against Lyme disease
+- no vaccines or methods of eradication exist
+- when in tick habitat  wear long pants, long sleeves
+- have a shower afterwards and check yourself
+- check pets for ticks
+
+## Zoonotic diseases
+- Diseases that spread from other animals to humans
+- Many of the diseases we are familiar with are zoonotic (e.g. influenza)
+### What are the origins of SARS-CoV-2?
+- name of the virus that causes COVID-19
+- coronaviruses are common in other species and can jump on humans
+- very similar to viruses found in bats
+- scientists have not yet discovered any animals infected with this virus
+
+### What we currently know about COVID-19
+- The virus is transmitted primarily through airborne respiratory droplets and aerosols 
+- most transmission occurs indoors, in spaces with poor air circulation
+- virus not long lived outside of the host
+
+### Vaccines for infectious diseases
+- One of the greatest medical breakthroughs of the last century
+- development of many vaccines in <12 months is a historic achievement
+
+## Perceptions of risk
+- People's perception of the risks offered does not match the actual statistical risk of contracting an illness or becoming seriously ill from it
+
+## Solutions space for health = nature
+- we can improve human health through better environmental practices and policies
+- Pursue actions with Co-benefits
+- E.g eliminate the burning of fossil fuels = reduce GHG emissions, air pollution, doctor visits for respiratory problems
+- E.g. investments in sanitation eliminate waterborne disease and improve biodiversity
+
+## Biophilia
+- A psychological trait through which humans are subconsciously attracted to and feel an affiliation with plants, animals, and nature more generally
+- When people are deprived of interaction with nature, it causes harm
+
+## Nature disconnectedness or 'biophobia'
+- some individuals may be fully disconnected or even afraid of engagement with nature
+- maybe associated with nature deprivation as a child or some other trauma
+- Outcome = higher rates of dissatisfaction with one's own life
+
+## The theory behind "nature deficit disorder"
+- Children best learn about the world in which they live through non-structured outdoor play
+- It is important for their physical, emotional and spiritual development
+- Lack of play in nature leads to a variety of mental and physical health challenges
+- Not a clinical term
+
+## ADHD
+- A clinical condition that affects ~7% of all children
+- Symptoms: persistent compulsivity, inability to focus, inability to follow instructions
+
+## Links between ADHD and NDD
+- Research shows that after age 2, children who live in rural environments are less likely to be diagnosed with ADHD
+- Other studies show symptoms of ADHD recede during nature-based play
+- A small number but growing number of professionals are prescribing nature-based therapies for adults with mental health challenges
+
+## Other ways nature improves human health
+### Vitamin D
+- The body requires vitamin D to regulate the amount of Calcium the body absorbs
+- the body produces vitamin D when exposed to sunlight
+
+### Trees cool cities
+### Gardening as therapy
+- sunlight lowers blood pressure
+- beneficial for diet
+- increased dexterity and strength
+- Various mental health benefits
+	- Anxiety and stress reduction
+	- Attention deficit recovery
+
+### Nature helps us recover quicker from illness
+- Repeated studies have shown that surgery patients who have a garden view tend to recover quicker
+### Forest bathing (Shinrin-yoku)
+- has psychological benefits
+- boosts immune system
+
+#### Phytoncides
+- Chemicals produced by plants to ward off microbial, and fungal infections
+- A small but growing body of research shows these have beneficial effects on human immune systems, sleep
+
+## Do plants improve indoor air quality?
+- Research is mixed
+- plants may reduce NO2 levels in a room but not outdoor air pollution
+- May introduce beneficial bacteria in a room
+- Increase air humidity
+- Provide similar mental health benefits as outdoor plants
