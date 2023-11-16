@@ -44,3 +44,88 @@ Three important points about Earth's crust:
 1. Differentiation - the separation of each planet's material into layers according to density
 2. Cratering and giant basin formation - could not begin until a solid surface formed
 3. Slow surface evolution - has continued for at least the past 3.5b years
+
+
+# Global Warming
+## History of earth's climate
+- life appeared 3.8 billion years ago
+- Photosynthesis began 3.5-2.5 billion years ago
+	- Produced oxygen and removed carbon dioxide and methane
+	- Earth went through periods of cooling ("snowball earth") and warming
+- Began cycles of glacial and interglacial periods ~3 million years ago
+
+## Origin of the Atmosphere
+- Earth had a primeval atmosphere from remaining gasses captured suiting the formation of earth
+- Atmospheric composition was severely altered (secondary atmosphere) through a combination of two processes
+	- Outgassing of compounds from the earth's interior
+	- Bombardment of icy meteoroids and comets
+## Today's atmosphere
+- The ozone layer is essential in protecting Earth's surface from UV radiation
+- Nitrogen, oxygen and argon are the 3 most abundant gasses in the Earth's atmosphere
+## Common misconceptions
+- Misconception: There is life on Earth because of oxygen
+	- Truth:
+		- Oxygen was not part of Earth's primeval atmosphere
+		- there is oxygen in Earth's atmosphere because of life
+		- Photosynthesis by plants is what keeps a steady supply of oxygen in Earth's atmosphere
+- Misconception: The greenhouse effect is bad for Earth
+	- Truths
+		- Earth has always had a greenhouse effect
+		- CO2 is not the only greenhouse gas
+		- Also includes water vapour, methane and other gases
+- Misconception: Ozone is bad
+	- Truth: The ozone layer is what protects earth's surface from harmful UV radiation
+- The observed warming of the earth is a result of natural causes rather than the greenhouse effect
+	- Truths:
+		- Natural causes should be driving temperatures to decrease, not increase
+		- Sun's luminosity has remained constant
+- Misconception: All of the earth will warm at the same rate
+	- Truth:
+		- N. America will be warm while Europe will become more wet and cool
+
+## Households are big contributors to climate change
+- 40% of all U.S greenhouse gas emissions come from households:
+	- Vehicles
+	- Home heating
+	- Electricity
+
+## How can we slow down global warming?
+- Reduce consumption of fossil fuels
+	- GHG emissions are tied very closely to our energy consumption, using less fossil fuel-based energy puts fewer GHGs into the atmosphere
+	- This will help slow global warming
+	- 50% of electricity in the United States is produced from coal
+	- Coal is the dirtiest fossil fuel
+
+## Vehicle use in Canada
+- The transportation sector is responsible for 27 percent of GHG emissions in Canada
+- 19 million light-duty vehicles on the road
+- Almost 1 vehicle for every 2 Canadians
+- More than 300 billion kilometres driven per year
+- Poor decisions and bad habits contribute to fuel waste
+
+## Why do Canadians Idle?
+- Most common reasons for idling in summer and winter:
+	- Doing an errand
+	- Stopping to talk to an acquaintance of a friend
+	- Using restaurant drive-throughs or stopping for take-out food
+	- waiting to get gas
+	- stopping to use a cellular phone warming up a vehicle
+	- waiting for someone
+
+### How much do Canadians idle?
+- Eight minutes a day in the peak of winter
+- 75 million minutes per day nationally 
+
+### Why idling is a problem
+- Unnecessary vehicle idling:
+- wastes a lot of fuel and money
+- Depletes a valuable non-renewable resource
+- Needlessly increases GHGs that contribute to climate change
+
+## Impacts of climate change
+- Increasing levels of GHGs are trapping heat in the atmosphere
+- Global warming triggers changes in climate
+- GHG emissions can magnify the effects of air pollution
+- Air quality problems and health problems
+
+Replacing 1 incandescent bulb with i CFL can save 150kg of carbon each year
