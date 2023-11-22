@@ -112,3 +112,103 @@ In high-income countries
 - A lot of people have never lived in anything else, and don't know what they're missing
 
 # Lecture 2: Urban challenges: Solid waste
+## Categories of garbage
+- Construction waste
+- Industrial waste
+- Household waste
+
+## Waste diversion
+- Refers to efforts to prevent MSW from ending up in landfills
+- includes reuse, recycling and composting of organics
+- In 2018 28% of solid waste generated in Canada was diverted, while the remaining 72% was sent for disposal
+
+## Do Canadians recycle?
+- became widespread in the early 1990s
+- by 2006, 90% of Canadian homes had access to recycling programs
+- 90% of people with access to recycling programs used them
+
+## What materials are Canadians best able to divert?
+- Paper is the easiest to divert
+- Organics, glass and metals are also easy to divert
+
+## Waterloo Region waste management
+- Has one of the higher diversion rates in Canada
+- only 37% of MSW goes to landfill
+- However, in 2022 the regional government spent $64,000,000 on waste management
+- This is beyond the financial means of the city
+
+## 3 Rs
+- Reduce: use less material in production, packaging, substituting materials, consume less, composting
+- Reuse: refillable bottles
+- Recycle: Reclaim raw materials
+- Note some materials have greater value and recycle more easily (e.g. metals) than others (e.g. plastics)
+
+## Some recyclables are valuable, while others not
+- Cardboard, fine paper, aluminum, copper, and other metals have resale value
+- Glass, and plastics, typically have no value
+- Plastic collected by cities in Canada was historically shipped to China, but that country has stopped accepting it
+- Canada now recycles only 9% of plastic waste - the rest goes to landfills, and incinerators (even if you put it in the blue box)
+
+In 2019
+- The region sold 2.5 million kilograms of PET bottles for $999,191
+- 543,000kg of aluminum was sold
+
+## The problem with plastic
+- So many different kinds
+- To get good quality recycled products, you cant mix types
+- The amount of valuable resin within any plastic item is tiny
+- You can only recycle good-quality resin a couple of times
+
+## Options for disposing of MSW
+- Landfill
+- Incinerate
+- Use as fuel to power a turbine
+
+### Landfill
+- Preferred method of disposal in most of the world including Canada
+- 75% of waste goes to landfill
+- Usually just a hole in the ground
+- The modern landfill has a liner to protect the ground from garbage
+- Have Leachate treatment systems and methane gas recovery systems
+
+#### Methane gas
+- $CH_{4}$ 
+- Forms under anaerobic conditions (i.e. when there is not much oxygen available)
+- is explosive
+
+#### Landfill Gas options
+- Capture and use gas to generate electricity
+- Burn gas straight away (flare)
+
+#### Toronto exports its garbage
+- Until Dec 2010 Toronto sent 75 tractor-trailers of garbage every day to a landfill in a poor county in Michigan
+- The City of Toronto has since bought its own landfill near London ON
+- City aiming to divert 70% of waste from landfill, is stuck at 50%
+
+#### Problems with landfills
+- Escape of leachate
+- Old landfills had no liner
+- Slow decomposition of organic material in anaerobic conditions
+
+### Incineration
+- Reduces waste volume by 90%
+- Can generate electricity or heat homes
+- Most dangerous substances are scrubbed out of the chimney (fly ash)
+- Bottom ash can be used as building material
+- More popular in Japan and Western Europe than in Canada
+
+#### Problems with incineration
+- Some airborne toxins can escape, especially from older poorly designed incinerators
+- More expensive than landfilling
+- Still need to landfill the fly ash, which may contain metals and toxins
+- Still need to live by them
+
+## E-waste
+- Growing global problem
+- Contains heavy metals, flame retardants
+- Volume is growing 3x faster than general waste
+- difficult to recycle
+
+## Waste management
+- Reduction of waste is far simpler and cheaper than any other option
+- Reduction is achieved by not just consuming less, but also through product design so that products arrive with less packaging and are made of biodegradable materials
