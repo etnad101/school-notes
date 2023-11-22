@@ -110,3 +110,5 @@ In high-income countries
 - A lot of people make a lot of $ from dumb growth and don't want to change
 - A lot of people like dumb growth
 - A lot of people have never lived in anything else, and don't know what they're missing
+
+# Lecture 2: Urban challenges: Solid waste

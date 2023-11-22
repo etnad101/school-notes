@@ -129,3 +129,83 @@ Three important points about Earth's crust:
 - Air quality problems and health problems
 
 Replacing 1 incandescent bulb with i CFL can save 150kg of carbon each year
+
+## Long-term changes in climate
+### Solar brightening
+- The sun very gradually grows brighter with time, increasing the amount of sunlight warming the planets
+### Changes in axial tilt
+- Greater tilt creates more extreme seasons, while smaller tilt keeps polar regions colder
+### Changes in reflectivity
+- Higher reflectivity lead
+
+## Escape velocity
+Escape velocity math
+$$V_{e}= \sqrt{\frac{2GM}{r}}$$
+Earth's escape velocity = 11.2km/s
+
+
+## The moon: The view from the earth
+- From Earth, we always see the same side of the moon
+- The moon rotates around its axis in the same time that it takes to orbit around earth
+- Tidal coupling: Earth's gravitation has produced tidal bulges
+
+## The Origin of Earth's Moon
+Three disproved hypotheses
+1. The fission hypothesis - The moon broke off from a rapidly spinning proto-Earth
+2. The condensation hypothesis - Earth and its Moon condensed from the same cloud of matter in the solar nebula
+3. The capture hypothesis - The moon formed elsewhere in the solar nebula and was later captured by the earth
+All of these hypotheses failed to go with the evidence
+
+- The large-impact hypothesis suggests that the Moon formed when a planetesimal(small celestial body) estimated to have been at least as large as Mars, grazed the proto-earth
+- The disk of ejected material coalesced to form the moon
+- This hypothesis concerning the formation of the moon best fits the given data
+
+## The history of Earth's moon
+- Magma ocean
+- Cratering and basin formation - Began as the crust solidified and meteors hit the surface
+- The increased cater rate occurred during the *late heavy bombardment*
+
+## Lunar geology
+- Maria - Lunar lowlands filled by successive flows of dark lava
+- Maria has very low [[Albedo]] (reflects only 6% of light)
+- Highlands - Heavily cratered, lighter-coloured regions, composed of low-density rock, older than Maria
+- Many rocks found on the Moon are [[Breccia | breaccis]]
+
+![[Breccia]]
+
+## Lunar surface features
+Two dramatically different kinds of terrain
+- Highlands
+- Lowlands
+### Highlands
+- Sinuous rilles = remains of ancient lava flows
+- May have been lava tubes which later collapsed due to meteorite bombardment
+
+### Impact cratering
+#### History of impact cratering
+- Rates of impact decreased rapidly within the first 1/2 billion years after the formation of the solar system
+
+## Human spaceflight
+- Apollo 11, launched on July 16, 1969, successfully landed Neil Armstrong and Edwin (Buzz) Aldrin on the lunar surface on July 20, 1969
+
+## Missions to the Moon
+Major challenges
+- Need to carry enough fuel for
+	- In-flight corrections
+	- descent so surface
+	- re-launch from the surface
+	- return trip to earth
+- need to carry enough food and other life support for ~ 1 week for all astronauts on board
+
+## Mercury
+Very similar to Earth's moon in several ways
+- Small; no atmosphere
+- Lowlands flooded by ancient lava flows
+- heavily cratered surface
+
+Until recently, most of our knowledge was based on measurements by Mariner 10 spacecraft (1974 - 1975).
+
+
+### Rotation and revoluiton
+- Revolution - 88 days
+- Rotation - 59 days
