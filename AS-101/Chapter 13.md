@@ -204,8 +204,74 @@ Very similar to Earth's moon in several ways
 - heavily cratered surface
 
 Until recently, most of our knowledge was based on measurements by Mariner 10 spacecraft (1974 - 1975).
-
-
-### Rotation and revoluiton
+### Rotation and revolution
 - Revolution - 88 days
 - Rotation - 59 days
+
+### Interior
+- Large metallic core
+- 60% denser than Earth's moon
+- The magnetic field is only ~0.5% of Earth's magnetic field
+- Liquid metallic core should produce a larger magnetic field
+- solid core should produce a weaker field
+
+### History of mercury
+- Only heavy elements could condense out 
+- Later bombardment removed more of the light rocks from the mercury surface
+- Not atmosphere -> heavy bombardment left many impact scratches
+- Stronger gravity than the moon
+
+## Venus
+- The diameter is 95% of Earth's size and 30% closer to the sun
+- Due to a *[[Runaway Greenhouse effect]]* on Venus, its surface is hidden below thick clouds. The surface of Venus is hot enough to melt lead
+- venus rotated backwards - The sun rises in the east and sets in the east
+- A solar day that is 116.75 earth days long
+
+### The atmosphere of Venus
+- The atmosphere is very hot and dense
+- Composition
+	- 96% CO2
+	- The rest is mostly nitrogen with some sulphur
+
+### The surface of Venus
+- Since the atmosphere is opaque to visible and infrared, radio waves are used to map the surface
+- Radar maps reveal many smaller volcanoes, faults, and sunken regions produced when magma below the surface drained away
+![[Coronae]]
+
+### The history of venus
+- May have had oceans when it was young, but it was warmer and CO2 in the atmosphere created a runaway greenhouse effect that made the planet even warmer
+- Volcanism appears to dominate the geology of Venus
+- There is no plate tectonics, but there is evidence that convection currents below the crust are deforming the crust
+
+## Mars
+### The atmosphere of Mars
+- 95% CO2, 3% nitrogen and 2% argon
+- There is no ozone layer
+- only about 1% as dense as Earth's atmosphere because it has a smaller escape velocity which lets most of its atmosphere escape
+- Whatever water is present on Mars is frozen either within the polar caps or as permafrost in the soil
+
+### Surface of mars
+- Shows dichotomy - heavily cratered southern hemisphere and younger lowland northern hemisphere
+- Evidence of volcanism(Tharsis region)
+- All volcanoes are shield volcanoes
+- rift valleys
+
+### Searching for water on Mars
+- Water once existed in large quantities on Mars
+- Rovers have found clear evidence that liquid water flowed over the surface in some places
+- Outflow channels and valley networks show evidence of water in the past
+- Mars no longer has a magnetic field
+
+### Magnetic field
+- Mars once had a global magnetic field like Earth, but the iron-core dynamo that generated it shut down billions of years ago leaving behind  only patches of magnetism due to magnetized minerals in the Martian crust
+
+### History of Mars
+- Differentiation into crust, mantle, and core
+- The core cooled quickly and shut off the dynamo
+- Cratering may have broken or at least weakened teh crust, triggering lava flows that flooded some basins
+- Volcanoes may still occasionally erupt
+- the age of liquid water must have been 3 billion years ago
+
+### Phobos and Deimos
+- Two irregularly shaped moods are likely captured asteroids
+

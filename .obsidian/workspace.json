@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e3b5af739eba0f8",
+        "id": "bb6a291e32d70370",
         "type": "tabs",
         "children": [
           {
-            "id": "8e724b1d1e364c27",
+            "id": "2b585f4d1dd7c861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AS-101/Definitions/Astronomical Unit.md",
+                "file": "AS-101/Chapter 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS-101/Definitions/Astronomical Unit.md",
+                "file": "AS-101/Chapter 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AS-101/Definitions/Astronomical Unit.md"
+                "file": "AS-101/Chapter 14.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS-101/Definitions/Astronomical Unit.md",
+                "file": "AS-101/Chapter 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +184,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8e724b1d1e364c27",
+  "active": "2b585f4d1dd7c861",
   "lastOpenFiles": [
+    "AS-101/Chapter 13.md",
+    "AS-101/Chapter 14.md",
+    "AS-101/Definitions/Coronae.md",
+    "AS-101/Definitions/Runaway Greenhouse effect.md",
+    "AS-101/Definitions/Astronomical Unit.md",
     "AS-101/Chapter 1.md",
     "AS-101/Chapter 6.md",
-    "AS-101/Chapter 13.md",
     "AS-101/Definitions/Neutron Star.md",
     "ES-110/Week 9.md",
     "ES-110/Weel 10.md",
@@ -208,10 +212,6 @@
     "ES-110/Week 8.md",
     "ES-110/Week 4.md",
     "AS-101/Chapter 2.md",
-    "AS-101/Definitions/White Dwarf.md",
-    "AS-101/Definitions/Red giant.md",
-    "ES-110/Definitions/shelterbelts.md",
-    "ES-110/Definitions/Energy.md",
     "ES-110/Definitions",
     "AS-101/Definitions",
     "AS-101/Definitions",
