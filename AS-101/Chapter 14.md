@@ -43,3 +43,62 @@
 	- The same is true of the rings around the other Jovian planets
 - The gravitational effects of small moons can confine some rings in narrow strands or keep the edges of the rings sharp
 - Moons can also produce waves in the rings that are visible as tightly wound ringlets
+- The ring particles are confined in a thin layer in Saturn's equatorial plane, spread among  small moons and confined by gravitational interactions with larger moons
+- The rings of Saturn and other Jovian planets are created and controlled by the planet's moons
+- Without moons, there would be no rings
+
+### Saturn Family of Moons
+- Saturn has more than 60 moons
+- Most moons are small, composed of mixtures of ice and rock, heavily cratered, and have no atmosphere
+- Many are probably captured objects
+- The biggest moon is Titan
+
+#### Titan
+- A dense atmosphere composed mostly of nitrogen and traces of methane and argon
+- Methane exists as liquid, gas and solid
+- Methane is replenished through methane volcanoes
+- There are ethane lakes
+- Liquid methane falls as rain on titan
+- A bit larger than Mercury
+
+## Uranus
+- The coldest atmospheric temperature in the solar system at 48K
+- Not likely to contain any liquid metallic hydrogen
+- The atmosphere is mostly hydrogen and helium traces of methane absorb red light and make the atmosphere look blue
+- Uranus is radiating about the same amount of energy that it receives from the sun
+- The magnetic field is highly inclined to Uranus's axis of rotation
+- 27 moons
+### Rings
+- Water ice bodies a mixed with methane and little dust
+
+## Neptune
+- Similar in composition to Uranus
+- 14 moons
+	- 2 Largest moons: Nereid and Triton
+	- Triton orbits Neptune backwards
+### Rings
+- Narrow and well-defined
+- Dark and faint
+
+#remember
+## What defines a planet?
+One of the criteria for planet status developed by the International Astronomical Union is that: An object must be large enough to dominate and gravitationally clear its orbital region of most or all other objects
+
+Eris and Pluto, the largest objects found so far in the Kuiper belt, and Ceres, the largest object in the asteroid belt, do not meet that standard
+
+## Pluto
+- Small icy world, with a highly inclined orbit
+- Is a large heart-shaped plain (1600km) surrounded by cratered terrain
+
+### Atmosphere
+- Has a thin atmosphere composed of nitrogen and carbon monoxide with small amounts of methane
+
+### Moons
+- Has 5 moons
+- The largest moon is Charon
+- Pluto and Charon are tidally locked
+
+## Ceres
+- A dwarf planet located in the asteroid belt
+- About 1000km in diameter, low density
+- NASA's Dawn spacecraft began orbiting Ceres to examine its shape and elemental composition in 2015
