@@ -79,3 +79,91 @@ Ask governments to pass laws and regulations
 - The federal government is responsible for making & acting upon international commitments to combat climate change
 - Has legal power to impose taxes on Canadians, including a carbon tax
 
+# Lecture 2: Economic and social exclusion from nature
+## Environmental change & challenge in Ontario's cottage country (Addington Highlands)
+### Community profile (2016)
+- population 2,323
+- Avereage age = 50
+- 30% of the population is over 65
+- Average household income = $57,600
+- Roughly 1/4 of people in AH are considered to be "low income" by Canadian standards
+
+
+### Child poverty in AH
+- Symptoms of wider poverty among permanent residents
+- >30% of students are fed breakfast and lunch by the school because they don't get decent meals at home
+- Often visibly hungry & stressed in winter
+- some spend 3 hours travelling to/from school each day
+
+### Summer Tourism
+- Consists of seasonal residents and vacationers
+- Bon Echo provincial part attracts >150,000 visitors each summer
+
+### Economic characteristics of AH
+- Biggest employment sectors are construction; forestry, hunting & fishing; retailing; tourism services
+- The economy is highly seasonal
+- Many people who live there year-round work multiple low-wage jobs to make ends meet
+- Many young adults, especially men, work elsewhere
+
+### Summer economy
+- Construction
+- Providing goods and services to tourists
+
+### Winter economy
+- Not many jobs once the tourists stop coming after labour day
+- Many retailers close after Thanksgiving, and reopen in May
+- Small-scale forestry takes place in winter
+- A few shops and restaurants provide goods and services to winter tourists
+
+### Observed changes in climate in AH
+- Winters are getting shorter, and less snowy on average
+- A lot of year-to-year variability in climate
+- Spring starts earlier
+- Summer gets hotter and longer
+
+### Impacts of summer climate trends
+- Tourists and cottages love hot summer weather
+- If it gets too hot and dry, a fire ban will be put in place
+	- Discourages some campers from coming
+- Wind damage becomes more frequent
+
+### Impacts of winter climate trends
+- Contractors can build or renovate cottages almost year-round
+- Lake ice conditions are increasingly dangerous
+- Snowmobiling conditions are not good
+- Winter forestry season is shortened
+- Loss of supplementary income from trapping
+- Home heating costs may be lower in some years
+- AH government must spend more money on road maintenance
+
+### Addington Highlands dialectic
+- During the pandemic, property prices went up as people moved out of the city
+
+### Adapting to climate change in AH
+- The positive benefits of climate change mostly go to cottagers
+- The risks and adverse impacts mostly affect permanent residents
+- The cottagers don't care what happens in AH in winter
+- Permanent residents and local governments lack $ to adapt
+- Cottagers complain about paying property tax on their cottages
+
+### Future prospects for AH
+- The climate is changing rapidly
+- Young people are leaving and not coming back
+- Building adaptive capacity in this region requires improving year-round economic development and cooperation
+
+## Social exclusion from nature
+- Not everyone has the same opportunity to interact with and experience nature
+- 2016 study in the UK found that children in low-income and non-white households have significantly less outdoor activity in natural areas
+
+
+#remember 
+## Complete solutions: agrarian wisdom
+- Wendell Berry, 1934
+
+### "Solving for pattern"
+- A term coined by Berry to describe the process of finding solutions that solve multiple problems, while minimizing the creation of new problems
+- People and institutions rarely do this
+- Instead, we try to solve one problem at a time, without thinking of feedback effects
+
+### A complete solution according to Wendell Berry
+- A solution to a problem that doesn't create new problems
