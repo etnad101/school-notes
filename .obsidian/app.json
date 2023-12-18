@@ -3,5 +3,10 @@
   "livePreview": true,
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": false,
+  "vimMode": true
 }

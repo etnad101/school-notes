@@ -205,12 +205,8 @@ Airborne toxins:
 
 ## Viral diseases
 - Viruses = organic matter neither living nor dead
-- A virus inserts itself into the living  
-cells of a host and uses the cell to  
-make copies of itself  
-- Examples include the common  
-cold, West Nile, Ebola, polio,  
-gastro-intestinal illnesses  
+- A virus inserts itself into the living cells of a host and uses the cell to make copies of itself  
+- Examples include the common cold, West Nile, Ebola, polio, gastro-intestinal illnesses
 - COVID-19 = disease caused by a  
 
 ## Bacterial diseases
