@@ -10,7 +10,7 @@ Bertrand Russel (1872-1970)
 ## Theseus' Ship
 
 ### Two views of change & sameness
-1. They can be reconciled Some changes in an object can be so insignificant that they do not prevent it from being the same obect after it has undergone such changes
+1. They can be reconciled Some changes in an object can be so insignificant that they do not prevent it from being the same object after it has undergone such changes
 2. They can't be reconciled: If an object changes, then it doesn't remain the same; and if it doesn't remain the same, then it is a different object
 
 ## Subscribing to the Incompatibility Thesis
@@ -23,7 +23,7 @@ Only matter (Earth, Air, Fire, Water), and what is composed of matter, exists
 	- Pythagoras (580-496 B.C.E)
 	- Parmenides (540-470 B.C.E)
 	- Zeno (489-430 B.C.E)
-Reality is an ideal version of what we encounter in out experience
+Reality is an ideal version of what we encounter in our experience
 
 
 ### Materialism: The Four Elements
@@ -32,8 +32,8 @@ Heraclitus (Fire)
 
 ### The Idealists: Constancy
 
-### An argument from a Follower of Parmenides
-The imposbility of change
+### An Argument from a Follower of Parmenides
+The impossibility of change
 - Change requires that something become what it is not
 - But nothing can be what it is not
 - so nothing can change
