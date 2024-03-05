@@ -69,8 +69,21 @@ What should we give up?
 2. Feelings of amusement are identical with increased electrochemical activity in the inferior temporal gyrus
 
 # Tutorial
-- Dualism - Material/Immaterial substances
-	- Cartesian Dualism - Two-way causality (Mind <-> Body)
-	- Epiphenomenalism - One-way causality (Body -> Mind)
-		- Objection: If the mind is only a receiver, then it is useless
-	- Descartes - Can doubt the material world but not himself
+## Dualism - Material/Immaterial substances
+- Cartesian Dualism - Two-way causality (Mind <-> Body)
+- Epiphenomenalism - One-way causality (Body -> Mind)
+	- Objection: If the mind is only a receiver, then it is useless
+- Descartes - Can doubt the material world but not himself
+	- Objection: Your ability to know/not know is only a feature of your
+
+- Leibniz's Law - if A=B then on every occasion A must possess the qualities of B
+
+## Three kinds of Materialism
+1. Mind - Brain Identity
+	- Reduces mental states/characteristics to brain states
+2. Functionalism
+	- Environmental input -> Behavioural output - (functional equivalence)
+3. Eliminative Materialism
+	- No "mind", All cause-effect
+
+## Inconsistent Trio of Doctrines
