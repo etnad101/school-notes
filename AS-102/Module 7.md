@@ -1,4 +1,4 @@
-# Lesson 8
+# Lesson 8 - Galaxies Galore
 ## Monolithic Collapse Model
 1. ![[Pasted image 20240311155157.png]]
 2. ![[Pasted image 20240311155108.png]]
@@ -83,3 +83,26 @@ This is known as **Main Sequence Fitting**
 - Masses of galaxies are determined with the rotation curve method
 
 smaller galaxies are as little as one millionth the mass of the Milky Way while the largest contain 50 or more times that of our galaxy
+
+# Lesson 9: Galactic Evolution
+## The really big picture
+- Higher mass systems are more organized than systems with lower mass
+- Spiral galaxies get more organized over time
+	- They also spin faster, and have more energy
+
+## Starburst Galaxies
+- Form new stars at rates of over 100 per year (milky way produces about 5 per year)
+- Use up all the interstellar gas in about 200 million years (relatively short)
+- Emit most radiation in infrared spectrum therefore not visible from the surface of earth
+- produces supernovae 100x faster than milky way
+	- supernovae combine to form an expanding bubble of gas that breaks out into space beyond the galaxy, creatin a galaxtin wind
+
+## Really Active Galaxies
+- AGNs (Active galactic nuclei) are galaxies where much of the energy streaming away appears to be coming from the galactic nucleus/core
+- One type of AGN is known as s Seyfert galaxy
+	- The gasses at the centre move away from their centres over 30x faster than normal spiral galaxies
+	- Most seyfert galaxies occur in pairs
+	- cores of seyferts contain supermassive black holes
+
+## Quasars
+![[Quasar]]
