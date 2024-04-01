@@ -59,7 +59,7 @@ What should we give up?
 - Interactionism?
 	- Minds cant affect bodies: "Epiphenomenalism"
 
-## Arguments for ___ Identity
+## Arguments for Mind-Brain Identity
 1. Feelings of amusement are perfectly correlated with increased electrochemical activity in the inferior temporal gyrus
 	- Feelings of amusement and increased electrochemical activity in the inferior temporal gyrus have the same causes and the same effects: both are caused by jokes, and both cause smiling and laughter
 	- Either: 
