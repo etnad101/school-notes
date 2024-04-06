@@ -111,8 +111,36 @@ Like a thick forest with trees all around, you wouldn't be able to see out
 	- homogenous = same wherever we are in the universe
 
 ## Model Universes and the Fate of the Universe
-- if avg density < crit density, universe is open
-- if avg density > crit density, universe is closed
+- if avg density < crit density, universe is open, should expand forever
+- if avg density > crit density, universe is closed, expansion should slow down, then start contracting
 - if avg density = crit density, universe is flat
 
 ## Inflation
+
+### The Flatness Problem
+- if the universe is flat it means that the curvature of space is nonexistent
+- No known reason why the density of the universe is so close to the critical density
+### The Horizon Problem
+- the CMB is quite isotropic, but the universe could not have evened out in the early days because there wasn't enough time for light information to travel across the entire universe
+##
+- To solve these problems, Alan Guth and Andrei Linde proposed the universe went through a sudden large growth very shortly after the Big Bang.
+- Lasted from 10^-36 seconds to 10^-32 seconds after the Big Bang
+- During this time the universe grew by a factor of 10^50 (about the size of a proton to slightly larger than the milky way)
+
+## Accelerating Universe
+- The expansion of the universe is accelerating
+- reffered to the force involved in expanding the universe as dark energy
+- seems to have become important 6 billion years ago when the universe was just over 50% its current age
+- it was around then the expansion of the universe started accelerating, and it has been ever since
+- Luminous and dark matter make up 31% of matter-energy density, and dark energy is the other 69%
+- The universe may not be expanding at the same rate in all directions
+
+## Universal Structure
+- The universe is flat
+- The universe has an accelerating expansion and will probably expand forever
+- The age of the universe is 13.8 billion years
+- The universe contains about 5% baryonic (luminous) matter, 26% dark matter, 69% dark energy
+- The Hubble constant is 67.8 km/s/Mpc
+- The theory of inflation is confirmed
+- The cosmological constant in Einstein’s work is probably valid
+- Dark matter is slow-moving in order to make the clumping of matter in the early universe possible
