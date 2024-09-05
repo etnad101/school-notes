@@ -1,1 +1,0 @@
-The study of the nature, origin and evolution of the universe

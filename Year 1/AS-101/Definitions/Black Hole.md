@@ -1,0 +1,7 @@
+- If a neutron star is too large, the gravitational forces will collapse the star into a black hole
+- Mass is about twice the mass of our sun
+- A region of spacetime that nothing can escape, not even light
+- As it is crushed smaller and smaller, the gravitational attraction increases, hence the escape velocity gets bigger
+- When the escape velocity reaches ${3.00\times10^{5}km}/{s}$ , not even light can escape
+- At this point, it is a black hole
+- Matter collects in a region with zero volume called a singularity

@@ -1,9 +1,0 @@
-- found in the brightest galaxies, shine brighter than 1,000 Milky Ways
-- found at the outer bounds of the universe
-- quasar stage is part of the child or adolescent stage of galactic life
-- generate luminosities from accretion disks that surround supermassive black holes
-- quasar = quasi-stellar radio source
-- current theory on how quasars work
-	- powered by material accreting onto a supermassive black hole
-	- the matter gives of light energy as it it speeds up as it's sucked into the black hole 
-- Only been known for ~50 years

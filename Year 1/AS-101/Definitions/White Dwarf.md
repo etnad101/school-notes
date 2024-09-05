@@ -1,0 +1,7 @@
+- Small stars
+- mass comparable to the sun, 
+- volume comparable to Earth so they are very dense
+- 6% of all known stars
+- Though to be the final evolutionary state of all stars
+- Very hot when formed
+- No source of energy so it will gradually radiate away its energy and cool down

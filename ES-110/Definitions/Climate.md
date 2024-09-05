@@ -1,1 +1,0 @@
-Average weather conditions over the long term (>30 years)

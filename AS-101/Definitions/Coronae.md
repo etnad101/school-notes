@@ -1,1 +1,0 @@
-The large round geological faults in the crust are caused by the intrusion of magma (hot fluid) below the crust

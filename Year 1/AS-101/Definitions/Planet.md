@@ -1,0 +1,2 @@
+- A non-luminous body in orbit around a star, large enough to be spherical and to have cleared its orbital zone of other objects
+- We live on planet earth which orbits our star, the Sun, once a year

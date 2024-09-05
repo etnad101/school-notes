@@ -1,0 +1,1 @@
+A closed curve around two points, called foci such that the total distance from one focus to the curve and back to the other focus remains constant

@@ -1,4 +1,0 @@
-- A distance that light travels in the period of one year.
-- Speed of light, c = 3.00x10^5 km/s
-- i.e. light second travels a distance of 3.0x10^5 km
-- In one year light travels 9.46x10^12 km or 9.46x10^15 m

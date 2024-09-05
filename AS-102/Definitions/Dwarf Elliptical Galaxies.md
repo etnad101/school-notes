@@ -1,1 +1,0 @@
-Elliptical galaxies with less than 1 billion stars

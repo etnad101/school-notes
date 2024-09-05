@@ -1,1 +1,0 @@
-A measure of the average speed of the atoms and molecules of a material

@@ -1,1 +1,0 @@
-when a planet's atmosphere contains greenhouse gas in an amount sufficient to block thermal radiation from leaving

@@ -1,0 +1,1 @@
+Capacity to do work, move things, or cause changes of state

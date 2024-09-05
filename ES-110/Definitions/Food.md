@@ -1,1 +1,0 @@
-Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.

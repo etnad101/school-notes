@@ -1,0 +1,1 @@
+A rock that is a mixture of angular fragments from different types of rocks surrounded by a fine-grained matrix that may be similar to or different from the fragmented materials

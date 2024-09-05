@@ -1,1 +1,0 @@
-The region of a shadow that is totally shaded

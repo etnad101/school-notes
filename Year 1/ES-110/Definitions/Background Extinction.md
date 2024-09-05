@@ -1,0 +1,1 @@
+number of species that might go extinct for natural reasons

@@ -1,1 +1,0 @@
-The science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products

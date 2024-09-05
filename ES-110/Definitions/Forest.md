@@ -1,1 +1,0 @@
-Where trees are the dominant form of land cover

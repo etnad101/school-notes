@@ -1,0 +1,1 @@
+ Quantifies the deviation from a perfect circle. It is the ratio of the distance from the center to the foci of the [[Ellipse]] and the center of the ellipse to the furthest edge.

@@ -1,2 +1,0 @@
-- Minimum distance between the earth & sun
-- 148,000,000 km

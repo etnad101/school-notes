@@ -1,0 +1,2 @@
+- The sun and its [[Planet | planets]], asteroids, comets and so on
+- The other major [[Planet | planets]] in our solar system orbit our sun in ellipses that are nearly circular

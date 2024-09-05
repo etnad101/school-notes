@@ -1,1 +1,0 @@
-The ratio of the amount of light reflected from an object to the amount of light received by the object

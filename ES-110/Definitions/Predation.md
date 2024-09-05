@@ -1,3 +1,0 @@
-- A basic principal of population biology that is populations of predators and prey species may fluctuate over the short term but tend to stabilize over the long term
-- However, the biological predator-prey relationship does not apply to human predation
-- our numbers continue to rise even as species we hunt decline

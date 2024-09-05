@@ -1,1 +1,0 @@
-- Long spiral pattern of bright stars, star clusters, gas, and dust. Spiral arms extend from the centre to the edge of the disk of spiral galaxies.

@@ -1,2 +1,0 @@
-- A globe of gas held together by its own gravity and supported by the internal pressure of its hot gasses, which generate energy by nuclear fusion
-- Luminous object (gives off light)

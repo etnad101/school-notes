@@ -1,0 +1,5 @@
+- When a large star has burnt all its fuel, it explodes into a supernova
+- The stuff that is left collapses down to an extremely dense object known as a neutron star
+- We know these exist because several have been observed with radio telescopes
+- Formed from the collapsed remnant of a massive star, consists mostly of neutrons and very hot
+- Typical mss between 1.35 and 2.0 solar mass with corresponding radius between 10 and 20km

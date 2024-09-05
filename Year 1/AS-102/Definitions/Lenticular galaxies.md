@@ -1,0 +1,1 @@
+identical shape to spiral galaxies, but no spiral arms

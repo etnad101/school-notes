@@ -1,2 +1,0 @@
-- Period when human activity replaced natural processes as the dominant force shaping the Earth. 
-- There is no exact date when this started.

@@ -1,1 +1,0 @@
-plants grown specifically to block the wind

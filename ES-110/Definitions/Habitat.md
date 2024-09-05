@@ -1,1 +1,0 @@
-Combination of resources and other factors necessary to support a given species

@@ -1,0 +1,1 @@
+Luminous giant stars of low or intermediate mass in a late phase of evolution, surface temperature low ~5000k. Red Giant is from yellow-orange to red
