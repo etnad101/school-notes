@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1305b51dcdb5c474",
+        "id": "b54773a32b25ac43",
         "type": "tabs",
         "children": [
           {
-            "id": "215cd5737b3c5a62",
+            "id": "55602f23365b2dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/GG-294/Week 1.md",
+                "file": "Year 2/GG-294/Week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/GG-294/Week 1.md",
+                "file": "Year 2/GG-294/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/GG-294/Week 1.md"
+                "file": "Year 2/GG-294/Week 2.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/GG-294/Week 1.md",
+                "file": "Year 2/GG-294/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,14 +186,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "215cd5737b3c5a62",
+  "active": "e4d055a2a4905e2e",
   "lastOpenFiles": [
+    "Year 2/IT-101/Week 2.md",
+    "Year 2/IT-101/Image Bank/Singular-and-plural.png",
+    "Year 2/IT-101/Week 1.md",
+    "Year 2/GG-294/Week 1.md",
+    "Year 2/GG-294/Week 2.md",
+    "Year 2/IT-101/Image Bank/Introductions.png",
     "Year 2/CP-220/Chapter 1.md",
     "Year 2/CP-220/Untitled.md",
-    "Year 2/GG-294/Week 1.md",
     "Year 2/GG-294",
     "Year 2/CP-264",
-    "Year 2/IT-101/Week 1.md",
     "Year 2/CP-220",
     "Year 2/IT-101/Image Bank/Formal Greeting.png",
     "Year 2/IT-101/Image Bank/Informal Greeting.png",
@@ -221,9 +225,6 @@
     "Year 1/UU-100/Week 9.md",
     "Year 1/AS-101/Chapter 15.md",
     "Year 1/AS-101/Chapter 5.md",
-    "Year 1/AS-101/Chapter 6.md",
-    "Year 1/AS-101/Chapter 13.md",
-    "Year 1/AS-101/Chapter 14.md",
     "Year 1/AS-102/Images/Pasted image 20240311155349.png",
     "Year 1/AS-102/Definitions",
     "Year 1/AS-102/Images",
@@ -231,8 +232,6 @@
     "Year 1/AS-102/Images/Pasted image 20240311155220.png",
     "Year 1/AS-102/Images/Pasted image 20240311155157.png",
     "Year 1/AS-102/Images/Pasted image 20240311155108.png",
-    "AS-102/Pasted image 20240311155103.png",
-    "AS-102/Pasted image 20240311155100.png",
     "Images",
     "Untitled.canvas"
   ]
