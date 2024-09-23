@@ -9,6 +9,7 @@
 | self-initiated or someone paid for their pursuits         | self-initiated or seeking out financial support for tourism                       |
 | Collection of experience sought out tangible collectibles | collection of experiences, the 'bucket list', Instagram photos, likes, souveniers |
 | lands colonized and claimed                               | #'s of countries traveled, # of peaks climbed, some sort of notoriety gained      |
+|                                                           |                                                                                   |
 ## Beginnings of tourism
 - Rome had an incredible road network which extended from northern England to southern Egypt
 - Most relied on roads in europe for many centuries after collapse of roman empire
@@ -180,3 +181,21 @@ Mass Tourism vs. Niche tourism
 | ---------------- | ----------------- | ----------------- |
 | gov agencies     | NGOs              | Individuals       |
 | Local authorites | charitable trusts | private companies |
+#test
+## Attraction by Hierarchy
+- flagship attractions:
+	- well known attraction
+	- known by tourists before arriving at a destination
+	- symbolize and theme a destination
+	- become "must-see" sites
+- Secondary attractions
+	- well known to potential tourists but is not the motivating factor to travel to that destination
+- Tertiary attractions
+	- Discovered only after a tourist has arrived at a destination
+## Attraction by Built Criteria
+
+## Tourism Attraction Typologies
+What is a marker?
+- A piece of information about a sight/site; tell us this place is worth "seeing"
+
+- tourists go "sight-seeing" and "site-seeing", sight-seeing is on a deeper level than site-seeing
