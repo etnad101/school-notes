@@ -1,6 +1,6 @@
 # Lecture 3
-**When and how did tourism begin?**
-**When did we first start to see evidence of modern tourism?**
+- [?] **When and how did tourism begin?**
+- [?] **When did we first start to see evidence of modern tourism?**
 
 ## Tourism "History"
 | Explorers                                                 | Adventure-insta travelers                                                         |
@@ -94,16 +94,89 @@ E.g. Camino de Santiago
 - Lack of diversity in tourism supply and demand
 ### Post fordist economy
 - Variable Production
-- Variable Consuption
+- Variable Consumption
 - Consumer-driven
-- Variable skilled labout
+- Variable skilled labour
 - Horizontal Management
 - Multiple realities, differentiation
 - Post-modern Era
 - 1990s - Beyond
 
-### Flexible Production = Consumer based society
+### Flexible Production = Consumer-based society
 
 Mass Tourism vs. Niche tourism
 
 # Lecture 4 - The supply side of tourism
+- [?] **Do you perceive there is one aspect or sector of the tourism industry that is more important than the others?**
+- [?] **How important are tourist attractions to the system?**
+## Introduction
+- Pull factors - Factors which attract tourists to a particular destination (e.g. tourist attractions, events like concerts)
+- Push factors - Factors which encourage tourist to want to leave their place of residence and go on a trip (e.g. cold weather)
+
+- The provision of service and the earning of profit from providing goods and services
+- part of this supply-side involves attractions
+
+## The nature of Tourism Attractions
+- Attractions "pull" tourists towards destinations and set destinations apart from one another
+- Part of the tourism supply
+- Without attractions, tourism would not exist in its present state
+## Attractions as Points
+### Accommodations
+#### Major Chain Hotels
+- First appeared in 1930s
+- Services and amenities dependent on tourist demand
+#### Private, small scale or boutique hotels
+- started to appear in 1940s
+- usually in historic buildings
+#### Motels ("Motor Hotel")
+- North American
+- Appear in the 1920s - beginning of highway development
+- Simple, few amenities
+- Cheap convenient way for mobile workers/travellers to find accommodation
+- Usually near or with restaurants
+#### Private Homes
+- The first forms of accommodations, around since the beginning of tourism
+- Private room rentals - services vary, usually breakfast included
+- Benefits local residents directly
+#### Resorts/Lodges
+- similar to a hotel, but offers more accommodations, amenities, and activities
+#### Airbnbs
+
+### Specific Build or Natural Sites
+#### Cultural/Heritage Sites
+- often related to a particular important point in the history of a destination
+- Architectrurally important
+- often specifically awarded heritage status (UNESCO)
+#### Sites of socio-cultural/religous signifigance
+- speak to a culutral heritage of a destination
+#### Natural/geological Landform
+- Natural geological site
+- May have local spiritual significance but is rarely taken into consideration
+- Traditionally a site of 'imperialistic' thinking
+### Events and Festivals
+## Attractions as Lines
+### Built environment
+- Highways and roadways that have a historical connection (e.g. Route 66, Trans Canada highway)
+- Recreational routes (e.g. cycling paths)
+- Pilgrimage Routes
+### Natural Environment
+- Riverways (e.g. white water rafting)
+- Beaches
+
+## Attractions as Areas
+### Natural Areas
+- Parks and protected areas
+- Conservation areas
+- Crownland forests
+- Lakes
+### Human-built areas
+- Heritage Districts in urban areas (e.g. Distillery district)
+- Spaces of cultural significance
+- Entertainment districts
+## Complexity in Attractions
+- Can have attractions in attractions
+## Attractions by Ownership
+| Public           | Voluntary         | Private           |
+| ---------------- | ----------------- | ----------------- |
+| gov agencies     | NGOs              | Individuals       |
+| Local authorites | charitable trusts | private companies |
