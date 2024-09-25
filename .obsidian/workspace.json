@@ -11,8 +11,12 @@
             "id": "31c3520df40446fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/GG-294/Week 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/GG-294/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 2/GG-294/Week 3.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 2/GG-294/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,15 +188,22 @@
   },
   "active": "31c3520df40446fa",
   "lastOpenFiles": [
+    "Year 2/GG-294/Week 2.md",
+    "Year 2/GG-294/Week 3.md",
+    "Year 2/GG-294/Image Bank/maslows hierarchy.png",
+    "Year 1/ES-110/Week 6.md",
+    "Year 1/ES-110/Week 5.md",
+    "Year 1/ES-110/Week 4.md",
+    "Year 1/ES-110/Week 3.md",
+    "Year 1/ES-110/Week 2.md",
+    "Year 1/ES-110/Week 1.md",
+    "Year 2/GG-294/Week 1.md",
     "Year 2/IT-101/Week 3.md",
+    "Bullet points.md",
     "Year 2/IT-101/Week 1.md",
     "Year 2/IT-101/Week 2.md",
-    "Year 2/GG-294/Week 3.md",
     "Year 2/GG-294/Image Bank/Plog(1972).png",
     "Year 2/GG-294/Image Bank",
-    "Bullet points.md",
-    "Year 2/GG-294/Week 2.md",
-    "Year 2/GG-294/Week 1.md",
     "Year 2/IT-101/Image Bank/Singular-and-plural.png",
     "Year 2/IT-101/Image Bank/Introductions.png",
     "Year 2/CP-220/Chapter 1.md",
@@ -213,19 +228,11 @@
     "Year 1/PP-111/Week 8.md",
     "Year 1/PP-111/Week 7.md",
     "Year 1/PP-111/Week 6.md",
-    "Year 1/PP-111/Week 5.md",
-    "Year 1/PP-111/Week 4.md",
-    "Year 1/PP-111/Week 3.md",
-    "Year 1/PP-111/Week 2.md",
-    "Year 1/PP-111/Week 1.md",
-    "Year 1/UU-100/Week 9.md",
-    "Year 1/AS-101/Chapter 15.md",
     "Year 1/AS-102/Images/Pasted image 20240311155349.png",
     "Year 1/AS-102/Definitions",
     "Year 1/AS-102/Images",
     "Year 1/AS-102/Images/Pasted image 20240311155319.png",
     "Year 1/AS-102/Images/Pasted image 20240311155220.png",
-    "Year 1/AS-102/Images/Pasted image 20240311155157.png",
     "Untitled.canvas"
   ]
 }

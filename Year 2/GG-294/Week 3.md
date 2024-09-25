@@ -64,5 +64,115 @@ why
 ## Plog(1972)
 ![[Plog(1972).png]]
 
-## Plog(1974)
-- 
+#test 
+different types of demand
+different kind of tourists defined by cohen
+
+## Zultan (2004)
+- classifications of tourists based on the purpose of the trip, destination chosen, and behaviour exhibited at the destination
+	- *The planning tourist*: plans their trip
+	- *The social tourist*: family/friends
+	- *The impulsive tourist*: Last-minute/spontaneous 
+	- *The marketing tourist*: choose a location that is widely advertised
+	- *The conventional tourist*: use travel agents
+## Maslow's Hierarchy of Needs
+ ![[maslows hierarchy.png]]
+ In relation to tourism:
+ - Self-actualization: search for authenticity/reality
+ - Esteem: "Collecting places"
+ - Belongingness: travel with family, friends, relatives, or other social group members
+ - Aesthetic/cognitive: the desire for self-fulfillment, educational tours, culture and language learning programs
+ - Safety needs: Food safety, safari rides
+ - Physiological needs: Staying at a hotel, dining at restaurants
+## How has the tourism sector met diversity in demand?
+- niche forms of tourism from the supply side
+- policy creation from gov't
+	- labour laws
+	- employment policy
+	- HR
+- policy creation from NGOs, charities
+- private entrepreneurs/corporations - EDI, mandates
+- planning/management
+	- create more extensive target marketing
+- Image Creation
+	- if you see it you believe it 
+# Lecture 6 - Tourism Marketing and Placemaking
+## Destination concept
+people develop emotional connections to places based on different factors
+Destination = location tourists go to
+Scale of a Destination:
+- National - Canada
+- Regional - Atlantic provinces
+- Even more regional - Nova scotia
+- Local - Halifax
+
+## Evolution of marketing in tourism
+### Production Era
+- Products priced cheaply
+- would sell regardless of consumer preferences
+- product oriented view
+### Sales Era
+- selling was the prime focus of the market's willingness to accept the product
+### Marketing Era
+- businesses produce products they could sell which were tailored to consumer needs to satisfy
+- notice post-fordist economy, flexible income
+- started late 1980s to early 1990s
+## Principals of services marketing
+- Intangible - experiences/services
+- Perishable - cannot store services
+- Heterogeneity - services difficult to standardize
+- Inseparable 
+	- service and consumption occur at the same time
+	- cannot separate service from destination
+- Lack of ownership - bring back memories/feelings/experiences, not the resort itself
+## Relationship marketing
+Adding of value
+- adding value to an experience based on amenities offered, satisfaction, and services offered
+- Build long-term relationships between customers and buyers
+## Perceived Value
+- multifaceted concept = 
+	- quality of services
+	- emotional responses
+	- monetary price
+	- behaviour price
+	- reputation
+
+DMO - Destination Marketing Organization
+- sometimes controlled by gov't
+## Undifferentiated marketing
+| Advantages                                        | Disadvantages                                               |
+| ------------------------------------------------- | ----------------------------------------------------------- |
+| less budget allocated for marketing and promotion | cannot target to a specific market                          |
+|                                                   | difficult to measure quantity/benefits/success of marketing |
+|                                                   | Lower sales/percieved value                                 |
+## Differentiated Marketing - Target market
+| Advantages                                   | Disadvantages                                                   |
+| -------------------------------------------- | --------------------------------------------------------------- |
+| Greater percieved value/increased sales      | Cost/increased budget for marketing                             |
+| Adaptable to changing market                 | Quickly changing market preferences - increase marketing budget |
+| Better relationship marketing - repeat sales |                                                                 |
+## Concentrated Marketing
+| Advantages                                       | Disadvantages                                      |
+| ------------------------------------------------ | -------------------------------------------------- |
+| Increase sales/percieved value for target market | Variable market changes                            |
+| Better relationship marketing<br><br>            | May miss possible latent demand/lost target market |
+## Place marketing
+Destinations distinguish themselves from their competition by creating a product or a place 'brand'
+
+- Engaging citizens and stakeholders in the discussion
+- use stakeholder and study feedback to create a brand story
+- started marketing places with meanings, or sentiments
+## A sense of place
+- Develop a deep connection to a certain place
+- places become more personal the longer you stay
+- Insiders = feel at one with place - have deep experiences with place
+- Outsiders = feel alienated or perceive place as a little more than a background or setting for activities
+## Sensuous Geographies
+ - ["] We see, hear, smell, taste and touch the world through the mediation, the filter or lens, of our social milieu, the context within which we have become socialized, educated and familiarized (Rodaway, 1994).
+## Placemaking
+- Top-down(government) professional design effort to influence people's behaviour and shape their perception of place
+- Happens quickly
+## Place-making
+- Cultural group imprints its values, perceptions, memories, and traditions on a landscape and gives meaning to a geographical space
+- Incremental, organic, more about the local glabout of the community
+- done by the people instead of the government
