@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sea level",
+                "query": "#t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,16 +187,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e4d055a2a4905e2e",
+  "active": "ceb17e5365e5ebf8",
   "lastOpenFiles": [
     "Year 2/GG-294/Week 3.md",
+    "Year 2/GG-294/Week 2.md",
+    "Year 2/GG-294/Week 1.md",
     "Year 2/GG-294/Week 4.md",
     "Year 2/CP-264/C.md",
     "Year 2/IT-101/Week 2.md",
     "Year 2/IT-101/Week 1.md",
     "Year 2/IT-101/Week 3.md",
     "Year 2/IT-101/Screenshot 2024-09-25 at 9.39.11 PM.png",
-    "Year 2/GG-294/Week 2.md",
     "Year 2/GG-294/Image Bank/maslows hierarchy.png",
     "Year 1/ES-110/Week 6.md",
     "Year 1/ES-110/Week 5.md",
@@ -203,7 +205,6 @@
     "Year 1/ES-110/Week 3.md",
     "Year 1/ES-110/Week 2.md",
     "Year 1/ES-110/Week 1.md",
-    "Year 2/GG-294/Week 1.md",
     "Bullet points.md",
     "Year 2/GG-294/Image Bank/Plog(1972).png",
     "Year 2/GG-294/Image Bank",
