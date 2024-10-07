@@ -54,25 +54,82 @@ Creation of spacelessness = spaces that lack meanings or have lost deeper meanin
 - 12 million of Africa's youngest and strogest were forcibly removed to Americas and Carribean between 1450 and 1807
 
 Removal of Africa's Population = economic decline that blighted generations - impact is present today
-Free labour for colonial powers allowed accumulation of massive wealth
+Free labour for colonial powers allowed the accumulation of massive wealth
 
 ### Legacies of Colonialism
 - reminds us that global relations remain shaped by power dynamics
 ## Postcolonialism
 1. destabilizing dominant discourses of development
 	- rethink big D development
-2. Invoking an explicit critique of the spacial metaphors in western discourse
+2. Invoking an explicit critique of the spatial metaphors in Western discourse
 	- deconstruct some of the structures that currently exist
 3. Uncover lost history
 
 ## Jamaica Kincaid's Antigua
-- Resident of antigua
-- has ancestors that came over from slave trade
+- Resident of Antigua
+- has ancestors that came over from the slave trade
 - locals view of tourism
-- post colonial way of writing
+- post-colonial way of writing
 
 ## Tourism and Neocolonialism
-- tourism is a form of neocolonialsim
+- tourism is a form of neocolonialism
 	- People who have control over tourism have similar behaviour to colonizers
-- North and west dominating power over 'south'
+- North and west dominating power over 'South'
 - Dependency on foreign power and investment
+# Lecture 8 - Media Influences Tourism Marketing and Destination Image Formation
+How do we form a destination image?
+What factors influence a destination image?
+what impacts do positive and negative images have on the destination?
+
+## Destination Image Formation
+#test
+Cognitive image - Knowledge and beliefs about a destination
+- Easier to measure, quantify based on destination attributes
+- studied more often
+
+Affective Image - Emotional responses to a destination
+- What we feel, our emotional connection
+- more subjective, difficult to measure
+- More recently explored in different research
+
+## What do we mean by IMAGE
+the perceptions of individual attributes of a destination and the holistic impression made by a destination
+
+## Organic image
+- perceived images of a destination derived from non-tourist sources (general media, books, news)
+## Induced Image
+- perceived images derived from commercial sources such as travel brochures, guidebooks, travel agents
+- Can also be called **projected Image**
+- tourism media, brochures, magazines, advertisements, guidebooks are considered official marketing media, but can also be unofficial marketing too
+## Naïve image
+- consists of organic and induced images
+- meaning inexperienced/haven't been to the destination
+## Re-evaluated image
+- Derived from perceptions after visiting the destination
+- used to determine visitor satisfaction
+## Ideal Images
+- perceptions of a mythical place or utopia
+- Not a clear definition given in the literature
+- certain characteristics - pleasant climate, beautiful scenery, friendly atmosphere, lack of congestion
+- e.g. unrealistic induced or Naïve image
+## Why is destination image important?
+- increase awareness of positive and negative aspects of a destination
+- improve understanding of image to assist with destination marketing and promotion
+- Relate destination image perceptions to visitor and trip characteristics 
+- Understand how visitors images are affected
+- DMOs (Destination marketing organizations) seek to produce and promote hte "ideal" image of their destination for visitors
+- "ideal" image must not be far removed from real experience
+## Insta-worthy tourism
+- Destinations, sites and attractions posted to social media sites not associated with DMOs or tourism supply
+- Destination images uploaded/shared through social media are unofficial marketing sources
+- Unofficial marketing has an astronomical impact
+## Positive Impact of Insta-worth Tourism
+- Increase tourism demand for particular destinations
+- provide economic benefits for community
+- Spur local employment in new tourism enterprises
+- Motivate small and medium enterprises
+- create interest in destination by investors
+## Negative Impact of Insta-worth Tourism
+- increase tourism demand for only a specific target market
+- tourism employment is marginal, seasonal, low-wage
+- create interest by foreign investors and non-local development
