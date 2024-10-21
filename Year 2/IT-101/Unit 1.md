@@ -1,4 +1,3 @@
-# Lecture 1
 ## Buon giorno!
 | Formal                            | Informal                            |
 | --------------------------------- | ----------------------------------- |
@@ -65,3 +64,17 @@ Buongiorno....
 	Ingenere / Ingener Ferrari	
 	
 ![[Screenshot 2024-09-25 at 9.39.11 PM.png]]
+
+## Come va?
+![[Singular-and-plural.png]]
+
+C'e = There is 
+Ci sonno = There are
+
+To be
+| 
+pg. 35
+Il chiamo e Paul ... . E canadese. E onesto, intilligente, e generoso
+
+## Telling Time
+Sonno le *hour* e *minutes*

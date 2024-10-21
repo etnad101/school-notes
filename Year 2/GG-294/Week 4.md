@@ -82,7 +82,7 @@ What factors influence a destination image?
 what impacts do positive and negative images have on the destination?
 
 ## Destination Image Formation
-#test
+#test -> everything below
 Cognitive image - Knowledge and beliefs about a destination
 - Easier to measure, quantify based on destination attributes
 - studied more often
