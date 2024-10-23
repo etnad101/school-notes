@@ -98,7 +98,7 @@
 	- monitors and evaluates management effectiveness
 ## Negative Environmental Impacts
 1. Destroys the environmental resources on which it depends
-2. occur when the level of visitor use is greater than the environment's ability ot cope
+2. occur when the level of visitor use is greater than the environment's ability to cope
 ### Three main impact areas
 #### Depletion of natural resources
 - Water resources
@@ -140,3 +140,97 @@
 - Provides opportunity for environmental education and awareness  
 - Encourages community beautification, revitalization and environmental quality  
 - Promotes improved land use and management
+## A Case study of cruise tourism
+## Connecting DIF and cruise tourism: Organic Images of teh Cruise Tourism Industry
+- January 13, 2012, Italian cruise ship Costa Concordia ran agorund and overturned afer striking an underwater rock off Isola del Giglio, Tuscany, resulting in 32 deaths
+- Granddad of toddler sho died in cruise ship fall knew window was open
+- Royal Caribbean passengers were on New Zealand's White Island when a volcano erupted
+    - 19 passengers died, several others with severe injuries and burns
+- Norwegian Joy Cruise passengers fall ill with possible norovirus
+## Positive Economic Impacts
+- Torist generating region
+    - intermediaries(travel agencies, airlines, etc.)
+- Transportation region - air travel, ground transport
+- Host regions - arts/crafts, transport, tour companies
+- Multiplier Effect - direct and indirect
+## Negative Economic Impacts
+- Low Demand
+- Massive Supply 0 just too many cruise ships, companies, destinations
+- Economic leakage
+- Dependecy on cruise tourism
+    - many islands suffered during covid because cruises were stopped
+### Example - Economic Dependecy on Cruise Tourism
+- Small island nations are overly dependent on cruise tourism
+## Positive Cultural Impacts
+- Experience cultures
+- Learn about cultural heritage
+- Encourage preservation of cultural heritage sites
+- Learn about how people live
+- Support local arts and crafts
+## Negative Cultural Impacts
+- Commodification of culture
+- Weakening of tradiitonal culture
+- Lack of authenticity
+- Fetishism of commodities
+- Increased marginalization of locals
+- Cruise 'managers' become powerful stakeholders
+## Positive Environmental Impact
+- Exploring alternative power sources
+- Eliminating single use plastic
+- Better planning to avoid over-crowding
+- Move many people to remote locations, therefore reduce carbon emissions
+- Offset emissions by flying to various ports
+- technological advangements in waste disposal (filter own water, reduce waste, recycle)
+## Negative Environmental Impact
+- Harmful emissions from cruise ship's diesel fuel engines
+- Wastewater
+- waste management
+
+# Lecture 11 - Dark Tourism
+## Motivations of the Dark Tourist
+- Nostalgia
+- Curiosity
+- Spiritual Motivations
+- Knowledge and Understanding
+- Fascination/Horror
+- Emotion/Empathy
+- Identity
+- Education
+## What is Dark tourism
+- Death, disaster and atrocity are the basis for tourist attractions
+- Thanatourism
+- Grief Tourism
+- Disaster Tourism
+## Five types of Dark Tourism
+### Enactments of Death
+- Has become socially, morally unacceptable
+- Gladiator fights, political executions, public hangings
+### Sites of Death
+- This is after they occured
+- Individual or mass killings
+    - e.g. concentration camps from WWII
+### Internment Sites and Memorials
+- Visits to graveyards and cemeteries
+- Catacombs
+- War memorials
+### Representation of Death
+- To view material/tangible evidence
+- Usually in locations unconnected with the occurence
+- Museums, historical sites
+- E.g. Holocaust Memorial Museum, U.S.
+### Re-enactments or Simulations of Death
+- Re-enactments of war
+- Battle at Plains of Abraham
+## Who is the Dark Tourist
+- Are you a dark tourist?
+- Morbid Gazers or Respectful Visitors?
+- Why are tourists attracted to death and disaster?
+    - Morally on the edge?
+    - Gain greater understanding?
+    - Connection? Empathy?
+## Dark Tourism Management
+- Complexity - morals and ethics
+- Uncertainty - storytelling
+- Conflict - power dynamics
+## Panacea for Peace?
+- dark tourism sites are known to provide education, awareness & cultural learning
