@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d70c910a80044c85",
+        "id": "47c63ed683c8ef6e",
         "type": "tabs",
         "children": [
           {
-            "id": "a342399bb6c774e0",
+            "id": "f900c32a2865e87f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Year 2/GG-294/Week 6.md",
-                "staged": false
+                "file": "Year 2/GG-294/Week 8.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Week 6)"
+              "icon": "lucide-file",
+              "title": "Week 8"
             }
           }
         ]
@@ -51,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "physical carryin",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -204,6 +205,76 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8f7b4d484849c210",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "222d6d34a4da9414",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dd1925ce5bc06763",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1307b9f8393d9e94",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "30b6541bbc9f9f7d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c703cd9ac8e8154e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "7d89e73c153a6a38",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -229,41 +300,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a342399bb6c774e0",
+  "active": "f900c32a2865e87f",
   "lastOpenFiles": [
+    "Year 2/GG-294/Week 7.md",
+    "Year 2/GG-294/Week 8.md",
+    "Year 2/GG-294/Screenshot 2024-11-06 at 5.56.16 PM.png",
     "Year 2/GG-294/Week 6.md",
+    "Year 2/IT-101/Unit 3.md",
     "Year 2/IT-101/Unit 1.md",
     "Year 2/IT-101/Unit 2.md",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-11-05 at 10.06.49 AM.png",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-11-05 at 10.06.32 AM.png",
+    "Year 2/GG-294/Image Bank/Screenshot 2024-10-30 at 6.02.04 PM.png",
+    "Year 2/IT-101/Numbers.md",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-10-24 at 11.05.13 AM.png",
+    "Bullet points.md",
+    "Year 1/AS-101/Chapter 1.md",
+    "Year 1/AS-102/Module 6.md",
+    "Year 1/AS-102/Module 8.md",
+    "Year 1/AS-102/Module 7.md",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-10-24 at 10.16.51 AM.png",
+    "Year 2/IT-101/Image Bank/Singular-and-plural.png",
     "Year 2/IT-101/Image Bank/Screenshot 2024-10-22 at 10.29.16 AM.png",
-    "Untitled.canvas",
-    "Year 2/GG-294/Image Bank/Screenshot 2024-10-21 at 5.42.04 PM.png",
-    "Year 2/GG-294/Week 5.md",
-    "Year 2/GG-294/Week 4.md",
-    "Year 1/PP-111/Week 5.md",
-    "Year 2/GG-294/Week 3.md",
-    "Year 2/GG-294/Week 2.md",
-    "Year 2/GG-294/Week 1.md",
     "Year 2/IT-101/Image Bank/Screenshot 2024-10-10 at 10.57.39 AM.png",
     "Year 2/IT-101/Image Bank/Screenshot 2024-10-08 at 10.51.19 AM.png",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-10-08 at 10.12.51 AM.png",
+    "Year 2/GG-294/Week 1.md",
+    "Year 2/GG-294/Week 5.md",
+    "Year 2/GG-294/Week 3.md",
+    "Year 1/ES-110/Week 4.md",
+    "Untitled.canvas",
+    "Year 2/GG-294/Week 4.md",
+    "Year 1/PP-111/Week 5.md",
+    "Year 2/GG-294/Week 2.md",
     "Year 2/IT-101/Week 3.md",
     "Year 2/IT-101/Week 2.md",
-    "Bullet points.md",
     "Year 2/CP-264/C.md",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-09-25 at 9.39.11 PM.png",
-    "Year 2/GG-294/Image Bank/maslows hierarchy.png",
     "Year 1/ES-110/Week 6.md",
     "Year 1/ES-110/Week 5.md",
-    "Year 1/ES-110/Week 4.md",
     "Year 1/ES-110/Week 3.md",
-    "Year 1/ES-110/Week 2.md",
-    "Year 1/ES-110/Week 1.md",
-    "Year 2/GG-294/Image Bank/Plog(1972).png",
     "Year 2/GG-294/Image Bank",
-    "Year 2/IT-101/Image Bank/Singular-and-plural.png",
-    "Year 2/IT-101/Image Bank/Introductions.png",
-    "Year 2/CP-220/Chapter 1.md",
-    "Year 2/CP-220/Untitled.md",
     "Year 2/GG-294",
     "Year 2/CP-264",
     "Year 2/CP-220",
@@ -271,10 +346,6 @@
     "Year 2/IT-101",
     "Year 2",
     "Year 1",
-    "Year 1/AS-102/Module 8.md",
-    "Year 1/AS-102/Module 7.md",
-    "Year 1/AS-102/Module 6.md",
-    "Year 1/AS-102/Definitions/Quasar.md",
     "Year 1/AS-102/Definitions",
     "Year 1/AS-102/Images"
   ]

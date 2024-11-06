@@ -62,9 +62,8 @@ Buongiorno....
 	Professore / Professore Ferrari
 	Dottore / Dottor Ferrari
 	Ingenere / Ingener Ferrari	
-	
-![[Screenshot 2024-09-25 at 9.39.11 PM.png]]
 
+![[Numbers]]
 ## Come va?
 ![[Singular-and-plural.png]]
 
