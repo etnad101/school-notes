@@ -45,3 +45,18 @@ Q6. Con qui parti
 A6.
 
 Q7. 
+
+## Self Description
+Io sono magro. Ho i capelli castanti e gli occhi marroni.
+
+
+![[Screenshot 2024-11-14 at 10.45.04 AM.png]]
+## Buono e Bello
+![[Screenshot 2024-11-14 at 10.48.34 AM.png]]
+1. Matteo e un buon fratello
+2. Mangio buona pasta
+3. I bei Maglioni
+4. Un buon cappucino
+
+## Interrogativi
+![[Screenshot 2024-11-14 at 11.11.23 AM.png]]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47c63ed683c8ef6e",
+        "id": "faf4f1063b96f8e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f900c32a2865e87f",
+            "id": "4be9c8e4655bc5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/GG-294/Week 9.md",
+                "file": "Year 2/CC-102/Lesson 1 - Foundations of Justice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 9"
+              "title": "Lesson 1 - Foundations of Justice"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "physical carryin",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,12 +286,122 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "90c19b1a98b7c503",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7f0b34379bb718c6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ab69952b0d91a657",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2c310ac667102d39",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "511037c545763d13",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb7d08b13470d4e2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b6dd1e606be9c18c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3302188f5aab93ed",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "91cc6dc401299cb7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "949f502b01669e7b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1d9376965b75f8d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c158aa593d928963",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -321,54 +431,54 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f900c32a2865e87f",
+  "active": "35c474fb8e3f4c53",
   "lastOpenFiles": [
-    "Year 2/GG-294/Screenshot 2024-11-13 at 6.41.49 PM.png",
-    "Year 2/GG-294/Screenshot 2024-11-13 at 6.41.34 PM.png",
+    "Year 2/CC-102/Lesson 1 - Foundations of Justice.md",
+    "Year 2/CC-102",
+    "Year 2/CP-216/Untitled.md",
+    "Year 2/CP-216/Chapter 1 - Number Systems.md",
+    "Year 1/AS-101/Chapter 6.md",
+    "Year 1/AS-101/Chapter 13.md",
+    "Year 1/AS-101/Chapter 14.md",
+    "Year 1/AS-101/Chapter 15.md",
+    "Year 2/IT-102/W.md",
+    "Year 2/IT-102/Week 1.md",
+    "Year 2/CP-216 1",
+    "Year 2/IT-102/Image Bank/Screenshot 2025-01-09 at 10.33.28 AM.png",
+    "Year 2/IT-102/Image Bank/Screenshot 2025-01-09 at 10.32.13 AM.png",
+    "Year 2/IT-102/Image Bank/Screenshot 2025-01-09 at 10.28.13 AM.png",
+    "Year 2/IT-102/Image Bank/Screenshot 2025-01-09 at 10.15.43 AM.png",
+    "Year 2/IT-102/Image Bank",
+    "Year 2/IT-102/Image Bank/Screenshot 2025-01-09 at 10.11.24 AM.png",
+    "Year 2/CP-216",
     "Year 2/GG-294/Week 8.md",
-    "Year 2/GG-294/Week 9.md",
-    "Year 2/GG-294/Week 7.md",
-    "Year 2/GG-294/Screenshot 2024-11-06 at 5.56.16 PM.png",
+    "Year 2/IT-102",
     "Year 2/GG-294/Week 6.md",
+    "Year 2/GG-294/Week 7.md",
+    "Year 2/GG-294/Week 4.md",
+    "Year 2/GG-294/Week 5.md",
+    "Year 2/GG-294/Week 9.md",
     "Year 2/IT-101/Unit 3.md",
+    "Year 2/IT-101/Italian Responses.md",
+    "Year 2/IT-101/Numbers.md",
     "Year 2/IT-101/Unit 1.md",
     "Year 2/IT-101/Unit 2.md",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-11-05 at 10.06.49 AM.png",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-11-05 at 10.06.32 AM.png",
-    "Year 2/GG-294/Image Bank/Screenshot 2024-10-30 at 6.02.04 PM.png",
-    "Year 2/IT-101/Numbers.md",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-10-24 at 11.05.13 AM.png",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-11-14 at 11.11.23 AM.png",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-11-14 at 10.48.34 AM.png",
+    "Year 2/IT-101/Image Bank/Screenshot 2024-11-14 at 10.45.04 AM.png",
+    "Year 2/GG-294/Image Bank/Screenshot 2024-11-13 at 6.41.49 PM.png",
+    "Year 2/GG-294/Image Bank/Screenshot 2024-11-13 at 6.41.34 PM.png",
     "Bullet points.md",
     "Year 1/AS-101/Chapter 1.md",
     "Year 1/AS-102/Module 6.md",
     "Year 1/AS-102/Module 8.md",
     "Year 1/AS-102/Module 7.md",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-10-24 at 10.16.51 AM.png",
-    "Year 2/IT-101/Image Bank/Singular-and-plural.png",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-10-22 at 10.29.16 AM.png",
-    "Year 2/IT-101/Image Bank/Screenshot 2024-10-10 at 10.57.39 AM.png",
     "Year 2/GG-294/Week 1.md",
-    "Year 2/GG-294/Week 5.md",
-    "Year 2/GG-294/Week 3.md",
-    "Year 1/ES-110/Week 4.md",
     "Untitled.canvas",
-    "Year 2/GG-294/Week 4.md",
-    "Year 1/PP-111/Week 5.md",
-    "Year 2/GG-294/Week 2.md",
-    "Year 2/IT-101/Week 3.md",
-    "Year 2/IT-101/Week 2.md",
-    "Year 2/CP-264/C.md",
-    "Year 1/ES-110/Week 6.md",
-    "Year 1/ES-110/Week 5.md",
     "Year 2/GG-294/Image Bank",
     "Year 2/GG-294",
     "Year 2/CP-264",
     "Year 2/CP-220",
-    "Year 2/IT-101/Image Bank",
-    "Year 2/IT-101",
-    "Year 2",
-    "Year 1",
-    "Year 1/AS-102/Definitions",
-    "Year 1/AS-102/Images"
+    "Year 2/IT-101/Image Bank"
   ]
 }

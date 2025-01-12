@@ -2,7 +2,6 @@
 # Guest Speaker
 ## Grand River
 - 300km from Dufferin County to Port Maitland
-
 ## DMO or DMMO
 - Destination marketing organization
 - Destination management organization
@@ -82,19 +81,19 @@
 - Worked to keep prices constant
 - Not low or high
 ## Airline deregulation after 1978
-- Removing government imposed entry and price restrictions on airlines affectin service to specific
-- in 1978, the airline deregulation act sifnes into law in US
+- Removing government-imposed entry and price restrictions on airlines affecting service to specific
+- in 1978, the Airline Deregulation Act signed into law in US
 - lifted CAB price, exit and entry laws
 - Hub and spoke model survives most legacy carriers
-- Low cost carrier (LLCs) - 30% of market fly point to point
+- Low-cost carrier (LLCs) - 30% of market fly point to point
 - Hubs - might be more convenient
-- Point to point - low cost
+- Point-to-point - low cost
 - Economies of scale and pricing advantages impact which model carriers use  
 - Increase competition among carriers
 ## Airline Deregulation in Canada
 - Canada first began deregulating the airline industry in the 1980s, when it decided to privatize Air Canada  
 - The airline became privatized in 1989 and still dominates the Canadian market  
-- Air Canada and WestJet control 82 % of the domestic seats
+- Air Canada and WestJet control 82% of the domestic seats
 - Airline industry protectionism works in two key ways:  
 	1) Foreign ownership limitations, which have gradually been liberalized around the world, but rarely to the extent of allowing complete foreign ownership of an airline.  
 	2) Open Skies Agreements - Canada has more than 100 agreements and many of those have been increasingly liberalized over the past couple of decades  
@@ -154,9 +153,9 @@
 - Rail travel is the best and most sensible mode of travel, apart from walking or cycling
 - Aviation’s emission impacts are much higher on a passenger-kilometre basis.  
 - But flying is not necessarily the most harmful choice 
-- Travel by a petrol or diesel-powered car, especially if traveling alone, can be more harmful
-## No-Fly Movement Protests for air travel
-- THe no-fly movement is a small but growing community
+- Travel by a petrol or diesel-powered car, especially if travelling alone, can be more harmful
+## No-Fly Movement Protests for Air Travel
+- The no-fly movement is a small but growing community
 - reducing the number of flights, or not flying at all
 ## Rail tourism
 - Declined in popularity with the rise in ownership of private cars
